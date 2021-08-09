@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+{% block app_content %}
+	<h2>Twitter Feeds</h2>
+	<hr>
+	{% if users %}
+			{% for i in range(num_users) %}
+				<h4>{{ users[i] }}</h4>
+				{% for tweet in feeds[i]%}
+					<p>{{ tweet[0] }} <br> {{ tweet[1] }} </p>
+				{% endfor %}
+				<br><br>
+			{% endfor %}
+
+		<a class="btn btn-primary" href="{{ url_for('google_news') }}" role="button">Search Again</a>
+	{% else %}
+		{% if form %}
+			{{ wtf.quick_form(form) }}
+		{% endif %}
+	{% endif %}
+{% endblock %}

@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block app_content %}
+	<h2>Federal Open Market Committee</h2>
+	<br>
+	<h3>{{ date[:4]+"/"+date[4:6]+"/"+date[6:] }} Minutes:</h3>
+	<hr>
+	<div id="accordion">
+		{% for i in range(len_sec) %}
+		<div class="card">
+	    <div class="card-header" id="header_{{ i }}">
+	      <h5 class="mb-0">
+	        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse_{{ i }}" aria-expanded="false" aria-controls="collapse_{{ i }}">
+						<strong>{{ sections[i][0][0] }}</strong>
+					</button>
+	      </h5>
+	    </div>
+	    <div id="collapse_{{ i }}" class="collapse" aria-labelledby="header_{{ i }}" data-parent="#accordion">
+	      <div class="card-body">
+					{% for line in sections[i][1] %}
+						<p>{{ line }}</p>
+					{% endfor %}
+	      </div>
+	    </div>
+	  </div>
+		{% endfor %}
+	</div>
+{% endblock %}

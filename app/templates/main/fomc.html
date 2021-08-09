@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+
+{% block app_content %}
+
+	<h2>Federal Open Market Committee</h2>
+	<hr>
+	<h3>Statements:</h3>
+	<br>
+	{% for url in urls %}
+		{% if url[0] == 1 %}
+			<p><a href="{{ url_for('loading', go_url='fomc_statement-'+url[1]) }}">Statement {{ url[1][:4]+"/"+url[1][4:6]+"/"+url[1][6:] }}</a></p>
+		{% endif %}
+	{% endfor %}
+	<br>
+	<h3>Minutes:</h3>
+	{% for url in urls %}
+		{% if url[0] == 2 %}
+			<p><a href="{{ url_for('loading', go_url ='fomc_minutes-'+ url[1]) }}">Minutes {{ url[1][:4]+"/"+url[1][4:6]+"/"+url[1][6:]}}</a><p/>
+		{% endif %}
+	{% endfor %}
+	<h4> Next Meeting: {{ next_date }}</h4>
+{% endblock %}

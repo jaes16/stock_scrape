@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+{% block app_content %}
+	{% if debug_message %}
+		<p>{{ debug_message }}</p>
+	{% else %}
+		<h2>Reddit Submissions<h2>
+		<hr>
+		{% if num_subs > 0 %}
+			{% for i in range(num_subs) %}
+			<h3>{{ subs[i] }}</h3>
+				<div id="accordion_{{ i }}">
+					{% for j in range(titles[i]|length) %}
+						<div class="card text-white bg-dark mb-3">
+					    <div class="card-header" id="header_{{ i }}{{ j }}">
+					      <h5 class="mb-0">
+					        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse_{{ i }}{{ j }}" aria-expanded="false" aria-controls="collapse_{{ i }}{{ j }}">
+										<strong>{{ titles[i][j][1] }}</strong>
+									</button>
+					      </h5>
+					    </div>
+					    <div id="collapse_{{ i }}{{ j }}" class="collapse" aria-labelledby="header_{{ i }}{{ j }}" data-parent="#accordion">
+					      <div class="card-body">
+									<p><small>{{ titles[i][j][2] }}</small></p>
+									<a class="btn btn-primary" href="{{ titles[i][j][0]}}" role="button">Link</a>
+					      </div>
+					    </div>
+					  </div>
+					{% endfor %}
+				</div>
+			{% endfor %}
+
+			<a class="btn btn-primary" href="{{ url_for('reddit') }}" role="button">Search Again</a>
+		{% else %}
+			{% if form %}
+			<!--
+				<h3>Subreddits<h3><br>
+				<p><small> Choose subreddits </small></p>
+				<form id="reddit_form1" method="post" role="form">
+					<small>
+						{{ form.hidden_tag() }}
+						{{ form.subs }}
+						<button type="submit">Submit</button>
+					</small>
+
+				</form>
+				<span id="test1"></span>
+				-->
+				{{ wtf.quick_form(form) }}
+			{% endif %}
+		{% endif %}
+	{% endif %}
+{% endblock %}

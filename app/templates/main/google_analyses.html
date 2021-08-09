@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+{% block app_content %}
+	<h2>Google Analyses</h2>
+	<hr>
+	{% if num_terms > 0 %}
+
+			{% for i in range(num_terms) %}
+				<h4>{{ terms[i] }}</h4>
+				{% for url_pdf in url_pdfs[i]%}
+					<p><a href="{{ 'https://' + url_pdf[0] }}">
+						{{ url_pdf[1] }}
+					</a> <br> {{ url_pdf[2] }} </p>
+				{% endfor %}
+				<br><br>
+			{% endfor %}
+
+		<a class="btn btn-primary" href="{{ url_for('google_news') }}" role="button">Search Again</a>
+	{% else %}
+		{% if form %}
+		<!--
+			<form class="form form-horizontal" method="post" role="form" id='google_news_form_id'>
+				{{ form.hidden_tag() }}
+				{{ wtf.form_errors(form, hiddens="only") }}
+				{{ wtf.form_field(form.term1) }}
+				{{ wtf.form_field(form.term2) }}
+				{{ wtf.form_field(form.term3) }}
+				{{ wtf.form_field(form.term4) }}
+				{{ wtf.form_field(form.term5) }}
+				<button type="submit">Search Analyses
+				</button>
+			</form>
+			-->
+			{{ wtf.quick_form(form) }}
+		{% endif %}
+	{% endif %}
+{% endblock %}

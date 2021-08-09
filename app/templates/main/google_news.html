@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+{% block app_content %}
+<h2>Google News</h2>
+<hr>
+	{% if num_terms > 0 %}
+
+			{% for i in range(num_terms) %}
+				<h4>{{ terms[i] }}</h4>
+				{% for title in titles[i]%}
+					<p><a href="{{ title[0] }}">
+						{{ title[1] }}
+					</a></p>
+				{% endfor %}
+				<br><br>
+			{% endfor %}
+
+		<a class="btn btn-primary" href="{{ url_for('google_news') }}" role="button">Search Again</a>
+	{% else %}
+		{% if form %}
+			{{ wtf.quick_form(form) }}
+		{% endif %}
+		<br><br>
+	{% endif %}
+{% endblock %}
