@@ -1,0 +1,477 @@
+1656727362790	geckodriver	INFO	Listening on 127.0.0.1:51543
+1656727363064	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tf/s8qd9kjn1dg2btygb3yyp2yh0000gn/T/rust_mozprofilev999p4"
+1656727364322	Marionette	INFO	Marionette enabled
+1656727364386	Marionette	INFO	Listening on port 51555
+Read port: 51555
+1656727364969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/tf/s8qd9kjn1dg2btygb3yyp2yh0000gn/T/rust_mozprofilev999p4/search.json.mozlz4", (void 0)))
+JavaScript warning: https://z.moatads.com/bloombergprebidheader853620778109/moatheader.js, line 309: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656727399307	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727399313	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727399318	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727399324	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727399329	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727399336	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727399353	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727399362	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727399369	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727399376	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.bloomberg.com/8FCGYgk4/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656727546114	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727546120	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727546127	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727546136	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727546143	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727546148	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727546156	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727546162	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727546171	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727546181	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727558624	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727558629	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727558635	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727558639	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727558650	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727558654	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727558661	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727558667	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727558670	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727558674	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1656727566245	Marionette	INFO	Stopped listening on port 51555
+1656727569340	geckodriver	INFO	Listening on 127.0.0.1:51651
+1656727570361	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tf/s8qd9kjn1dg2btygb3yyp2yh0000gn/T/rust_mozprofileT1C7TQ"
+1656727571327	Marionette	INFO	Marionette enabled
+1656727571374	Marionette	INFO	Listening on port 51662
+Read port: 51662
+1656727572248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/tf/s8qd9kjn1dg2btygb3yyp2yh0000gn/T/rust_mozprofileT1C7TQ/search.json.mozlz4", (void 0)))
+JavaScript error: https://assets.bwbx.io/s3/mkts/javascripts/critical-16db8eb6a2.js, line 1: TypeError: window.Sparkle is undefined
+JavaScript error: https://assets.bwbx.io/s3/mkts/javascripts/sector_widget-9fb171ee4f.js, line 44: TypeError: window.Sparkle is undefined
+JavaScript warning: https://z.moatads.com/bloombergprebidheader853620778109/moatheader.js, line 309: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bloomberg.com/8FCGYgk4/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:857:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:857:13
+
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:857:13
+
+1656729315872	Marionette	INFO	Stopped listening on port 51662
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657086154389	geckodriver	INFO	Listening on 127.0.0.1:53590
+1657086155214	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tf/s8qd9kjn1dg2btygb3yyp2yh0000gn/T/rust_mozprofile2sQwN4"
+1657086157084	Marionette	INFO	Marionette enabled
+1657086157211	Marionette	INFO	Listening on port 53597
+Read port: 53597
+1657086157706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/tf/s8qd9kjn1dg2btygb3yyp2yh0000gn/T/rust_mozprofile2sQwN4/search.json.mozlz4", (void 0)))
+JavaScript warning: https://z.moatads.com/bloombergprebidheader853620778109/moatheader.js, line 309: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bloomberg.com/8FCGYgk4/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bloomberg.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bloomberg.com"
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn1.windowGlobal6442450978/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:552:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn1.windowGlobal6442450976/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn1.windowGlobal6442450976/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn1.windowGlobal6442450976/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aHhPXGVii6m1UdQEw4dl9bTaUK-_iBumPQ-RERU6U4M.js line 2 > eval line 4495 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode]"
+console.error: ({})
+console.error: "Failed to start [root-node] legacy listener for target server0.conn1.windowGlobal21474836482/windowGlobalTarget2" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn1.windowGlobal6442450945/domwalker33 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error while destroying front:" "inspector" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn1.windowGlobal6442450945/domwalker33 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3367: TypeError: data.frameData.id is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn1.windowGlobal6442450945/domwalker33 (resource://devtools/server/actors/inspector/document-walker.js:79:0)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bloomberg.com"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn1.windowGlobal6442451011/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:552:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.error: "Unable to find target with innerWindowId:6442450945"
+JavaScript warning: https://z.moatads.com/bloombergprebidheader853620778109/moatheader.js, line 309: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 985"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:985:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 985, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 985"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:985:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 985, column: 0
+console.error: ({})
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aHhPXGVii6m1UdQEw4dl9bTaUK-_iBumPQ-RERU6U4M.js line 2 > eval line 7116 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn1.windowGlobal42949672964/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:552:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+1657088633600	Marionette	INFO	Stopped listening on port 53597
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Task cancelled"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657088642155	geckodriver	INFO	Listening on 127.0.0.1:54107
+1657088643185	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tf/s8qd9kjn1dg2btygb3yyp2yh0000gn/T/rust_mozprofileFP7k3Q"
+1657088644116	Marionette	INFO	Marionette enabled
+1657088644156	Marionette	INFO	Listening on port 54114
+Read port: 54114
+1657088644725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/tf/s8qd9kjn1dg2btygb3yyp2yh0000gn/T/rust_mozprofileFP7k3Q/search.json.mozlz4", (void 0)))
+JavaScript warning: https://z.moatads.com/bloombergprebidheader853620778109/moatheader.js, line 309: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bloomberg.com/8FCGYgk4/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1657088999710	Marionette	INFO	Stopped listening on port 54114
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657091228730	geckodriver	INFO	Listening on 127.0.0.1:61614
+1657091229746	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tf/s8qd9kjn1dg2btygb3yyp2yh0000gn/T/rust_mozprofilehOfs77"
+1657091230613	Marionette	INFO	Marionette enabled
+1657091230707	Marionette	INFO	Listening on port 61621
+Read port: 61621
+1657091231182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/tf/s8qd9kjn1dg2btygb3yyp2yh0000gn/T/rust_mozprofilehOfs77/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.error: (new TypeError("container.editor is undefined", "resource://devtools/client/inspector/markup/markup.js", 1625))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450954/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:552:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: https://assets.bwbx.io/s3/mkts/javascripts/critical-16db8eb6a2.js, line 1: TypeError: window.Sparkle is undefined
+JavaScript warning: https://z.moatads.com/bloombergprebidheader853620778109/moatheader.js, line 309: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.bwbx.io/s3/mkts/javascripts/sector_widget-9fb171ee4f.js, line 44: TypeError: window.Sparkle is undefined
+JavaScript warning: https://www.bloomberg.com/8FCGYgk4/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bloomberg.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bloomberg.com"
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934612/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:552:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934612/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new TypeError("inspectorFront.walker is null", "resource://devtools/shared/commands/resource/legacy-listeners/root-node.js", 50))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal17179869186/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: https://assets.bwbx.io/s3/javelin/public/hub/js/lazyLoad/lazyLoad-9fa0be16b7.js, line 1: TypeError: r is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jM248wiKq0YW9gJU5iyZLO601i5VwbJBYGHxrXeF70U.js line 2 > eval line 5156 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3367: TypeError: data.frameData.id is null
+console.error: "Unable to find target with innerWindowId:21474836482"
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal21474836484/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal17179869188/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal17179869188/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal17179869188/domwalker21, type getLayoutInspector failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getLayoutFronts/layoutFronts<@resource://devtools/client/inspector/grids/grid-inspector.js:151:50
+getLayoutFronts@resource://devtools/client/inspector/grids/grid-inspector.js:151:23
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal17179869188/domwalker21, type getLayoutInspector failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getLayoutFronts/layoutFronts<@resource://devtools/client/inspector/grids/grid-inspector.js:151:50
+getLayoutFronts@resource://devtools/client/inspector/grids/grid-inspector.js:151:23
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal17179869188/domwalker21, type getLayoutInspector failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getLayoutFronts/layoutFronts<@resource://devtools/client/inspector/grids/grid-inspector.js:151:50
+getLayoutFronts@resource://devtools/client/inspector/grids/grid-inspector.js:151:23
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal17179869185/domwalker22, type getLayoutInspector failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getLayoutFronts/layoutFronts<@resource://devtools/client/inspector/grids/grid-inspector.js:151:50
+getLayoutFronts@resource://devtools/client/inspector/grids/grid-inspector.js:151:23
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal17179869185/domwalker22, type getLayoutInspector failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getLayoutFronts/layoutFronts<@resource://devtools/client/inspector/grids/grid-inspector.js:151:50
+getLayoutFronts@resource://devtools/client/inspector/grids/grid-inspector.js:151:23
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal17179869185/domwalker22, type getLayoutInspector failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getLayoutFronts/layoutFronts<@resource://devtools/client/inspector/grids/grid-inspector.js:151:50
+getLayoutFronts@resource://devtools/client/inspector/grids/grid-inspector.js:151:23
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal17179869185/domwalker22, type getLayoutInspector failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getLayoutFronts/layoutFronts<@resource://devtools/client/inspector/grids/grid-inspector.js:151:50
+getLayoutFronts@resource://devtools/client/inspector/grids/grid-inspector.js:151:23
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal17179869185/domwalker22, type getLayoutInspector failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getLayoutFronts/layoutFronts<@resource://devtools/client/inspector/grids/grid-inspector.js:151:50
+getLayoutFronts@resource://devtools/client/inspector/grids/grid-inspector.js:151:23
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal17179869185/domwalker22, type getLayoutInspector failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getLayoutFronts/layoutFronts<@resource://devtools/client/inspector/grids/grid-inspector.js:151:50
+getLayoutFronts@resource://devtools/client/inspector/grids/grid-inspector.js:151:23
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jM248wiKq0YW9gJU5iyZLO601i5VwbJBYGHxrXeF70U.js line 2 > eval line 7719 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal21474836494/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:552:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: "Unable to find target with innerWindowId:8589934593"
+console.error: "Unable to find target with innerWindowId:8589934593"
+console.error: "Unable to find target with innerWindowId:8589934593"
+console.error: "Unable to find target with innerWindowId:8589934593"
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3367: TypeError: data.frameData.id is null
+1657091890694	Marionette	INFO	Stopped listening on port 61621
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657091911530	geckodriver	INFO	Listening on 127.0.0.1:61874
+1657091911728	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tf/s8qd9kjn1dg2btygb3yyp2yh0000gn/T/rust_mozprofileaglOBZ"
+1657091912376	Marionette	INFO	Marionette enabled
+1657091912461	Marionette	INFO	Listening on port 61883
+1657091913407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/tf/s8qd9kjn1dg2btygb3yyp2yh0000gn/T/rust_mozprofileaglOBZ/search.json.mozlz4", (void 0)))
+JavaScript error: https://assets.bwbx.io/s3/mkts/javascripts/critical-16db8eb6a2.js, line 1: TypeError: window.Sparkle is undefined
+JavaScript error: https://assets.bwbx.io/s3/mkts/javascripts/sector_widget-9fb171ee4f.js, line 44: TypeError: window.Sparkle is undefined
+JavaScript warning: https://z.moatads.com/bloombergprebidheader853620778109/moatheader.js, line 309: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bloomberg.com/8FCGYgk4/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bloomberg.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bloomberg.com"
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934612/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:552:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934612/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new TypeError("inspectorFront.walker is null", "resource://devtools/shared/commands/resource/legacy-listeners/root-node.js", 50))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jM248wiKq0YW9gJU5iyZLO601i5VwbJBYGHxrXeF70U.js line 2 > eval line 7190 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal17179869185/domwalker22, type getLayoutInspector failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getLayoutFronts/layoutFronts<@resource://devtools/client/inspector/grids/grid-inspector.js:151:50
+getLayoutFronts@resource://devtools/client/inspector/grids/grid-inspector.js:151:23
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal17179869185/domwalker22, type getLayoutInspector failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getLayoutFronts/layoutFronts<@resource://devtools/client/inspector/grids/grid-inspector.js:151:50
+getLayoutFronts@resource://devtools/client/inspector/grids/grid-inspector.js:151:23
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal17179869185/domwalker22, type getLayoutInspector failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getLayoutFronts/layoutFronts<@resource://devtools/client/inspector/grids/grid-inspector.js:151:50
+getLayoutFronts@resource://devtools/client/inspector/grids/grid-inspector.js:151:23
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jM248wiKq0YW9gJU5iyZLO601i5VwbJBYGHxrXeF70U.js line 2 > eval line 3109 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jM248wiKq0YW9gJU5iyZLO601i5VwbJBYGHxrXeF70U.js line 2 > eval line 5348 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3367: TypeError: data.frameData.id is null
+JavaScript error: https://assets.bwbx.io/s3/javelin/public/hub/js/lazyLoad/lazyLoad-9fa0be16b7.js, line 1: TypeError: r is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: "Unable to find target with innerWindowId:8589934593"
+console.error: "Unable to find target with innerWindowId:8589934593"
+console.error: "Unable to find target with innerWindowId:8589934593"
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3367: TypeError: data.frameData.id is null
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3367: TypeError: data.frameData.id is null
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal19327352844/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal19327352844/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal19327352844/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+1657092790831	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092790839	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092790851	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092790862	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092790878	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092790905	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092790918	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092790935	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092790951	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092790970	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092802971	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092802978	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092802984	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092802990	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092803001	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092803007	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092803016	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092803026	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092803034	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092803039	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1657092882430	Marionette	INFO	Stopped listening on port 61883
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657092951902	geckodriver	INFO	Listening on 127.0.0.1:62157
+1657092952922	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tf/s8qd9kjn1dg2btygb3yyp2yh0000gn/T/rust_mozprofileuDempa"
+1657092953736	Marionette	INFO	Marionette enabled
+1657092953816	Marionette	INFO	Listening on port 62164
+Read port: 62164
+1657092954404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/tf/s8qd9kjn1dg2btygb3yyp2yh0000gn/T/rust_mozprofileuDempa/search.json.mozlz4", (void 0)))
+1657093029527	Marionette	INFO	Stopped listening on port 62164
+1657093191808	geckodriver	INFO	Listening on 127.0.0.1:62221
+1657093192830	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/tf/s8qd9kjn1dg2btygb3yyp2yh0000gn/T/rust_mozprofileTZTl1C"
+1657093193472	Marionette	INFO	Marionette enabled
+1657093193547	Marionette	INFO	Listening on port 62228
+Read port: 62228
+1657093194466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/tf/s8qd9kjn1dg2btygb3yyp2yh0000gn/T/rust_mozprofileTZTl1C/search.json.mozlz4", (void 0)))
+1657093204997	Marionette	INFO	Stopped listening on port 62228

@@ -1,0 +1,2635 @@
+{
+    "date": "2022-Jul-15",
+    "Bloomberg": {
+        "Markets": {
+            "Stocks Pare Losses as Traders Evaluate China Data: Markets Wrap": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/asian-stocks-set-for-choppy-open-amid-dollar-surge-markets-wrap?srnd=markets-vp"
+            },
+            "China Property Crisis Is Spiraling With Homebuyers’ Boycott": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/china-s-troubled-property-market-has-global-investors-on-edge?srnd=markets-vp"
+            },
+            "Philippines Signals Key Rate Hike to Fight Global Spillovers": {
+                "date": "2022-07-15",
+                "link": "/news/articles/2022-07-15/philippine-signals-another-rate-hike-to-fight-global-spillovers?srnd=markets-vp"
+            },
+            "Japan Utilities Rise as PM Calls for Restarting Nuclear Reactors": {
+                "date": "2022-07-15",
+                "link": "/news/articles/2022-07-15/japan-utilities-rise-as-kishida-ups-rhetoric-on-nuclear-restarts?srnd=markets-vp"
+            },
+            "China’s Economy Expands at Slowest Pace Since Wuhan Outbreak": {
+                "date": "2022-07-15",
+                "link": "/news/articles/2022-07-15/china-s-economy-expands-at-slowest-pace-since-wuhan-outbreak?srnd=markets-vp"
+            },
+            "China Sees Most Covid Cases Since May as Lockdowns Spread": {
+                "date": "2022-07-15",
+                "link": "/news/articles/2022-07-15/china-sees-most-covid-cases-since-may-as-lockdowns-spread?srnd=markets-vp"
+            },
+            "Divided Over Russia, G-20 Turns to Food Security, Debt Crises": {
+                "date": "2022-07-15",
+                "link": "/news/articles/2022-07-15/divided-over-russia-g-20-turns-to-food-security-debt-crises?srnd=markets-vp"
+            },
+            "Gold Set for Longest Run of Weekly Losses Since 2018 on Dollar": {
+                "date": "2022-07-15",
+                "link": "/news/articles/2022-07-15/gold-set-for-longest-run-of-weekly-losses-since-2018-on-dollar?srnd=markets-vp"
+            },
+            "China Home Prices Fall for 10th Month as Property Crisis Deepens": {
+                "date": "2022-07-15",
+                "link": "/news/articles/2022-07-15/china-home-prices-fall-for-10th-month-as-property-crisis-deepens?srnd=markets-vp"
+            },
+            "China Holds Off on Monetary Easing as Interbank Rates Stay Low": {
+                "date": "2022-07-15",
+                "link": "/news/articles/2022-07-15/china-sidesteps-monetary-easing-amid-economic-recovery-signs?srnd=markets-vp"
+            },
+            "‘Don’t Fight It’: Hedge Funds, Wall Street Double Down on Dollar": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/-don-t-fight-it-hedge-funds-wall-street-double-down-on-dollar?srnd=markets-vp"
+            },
+            "Yen Edges Toward Closely Watched 140 Level as Dollar Strengthens": {
+                "date": "2022-07-15",
+                "link": "/news/articles/2022-07-15/yen-edges-toward-closely-watched-140-level-as-dollar-strengthens?srnd=markets-vp"
+            },
+            "Japanese Restaurant Chains Reluctantly Raise Prices in Boost to Their Stocks": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/inflation-driven-price-hikes-boost-japan-restaurant-stocks?srnd=markets-vp"
+            },
+            "Coinbase May Drop From Ranks of Top Crypto Exchanges as Volume Falls": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/coinbase-may-drop-out-of-world-s-top-exchanges-as-volume-falls?srnd=markets-vp"
+            },
+            "China Banks Report $312 Million of Bad Loans in Mortgage Boycott": {
+                "date": "2022-07-15",
+                "link": "/news/articles/2022-07-15/china-banks-report-312-million-of-bad-loans-in-mortgage-boycott?srnd=markets-vp"
+            }
+        },
+        "Tech": {
+            "VW’s Battery Business Faces Supply-Chain Hurdles in Road to IPO": {
+                "date": "2022-07-15",
+                "link": "/news/articles/2022-07-15/vw-s-battery-business-faces-supply-chain-hurdles-in-road-to-ipo?srnd=technology-vp"
+            },
+            "Alibaba Leads Drop in China Tech Shares as Regulatory Fears Grow": {
+                "date": "2022-07-15",
+                "link": "/news/articles/2022-07-15/alibaba-leads-decline-in-china-tech-shares-on-report-of-inquiry?srnd=technology-vp"
+            },
+            "UST Co-Founder Targets $1 Billion Funding for Tech Investment": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/ust-co-founder-targets-1-billion-funding-for-tech-investment?srnd=technology-vp"
+            },
+            "Pinterest Rallies on Report That Elliott Has Acquired a Stake": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/pinterest-rallies-on-report-that-elliott-has-acquired-a-stake?srnd=technology-vp"
+            },
+            "Amazon’s UK Recruitment Drive Slows After Rapid Pace of Pandemic": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/amazon-s-uk-recruitment-drive-slows-after-rapid-pace-of-pandemic?srnd=technology-vp"
+            },
+            "Memory Chipmaker SK Hynix Weighs Slashing Spending by a Quarter in 2023": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/sk-hynix-is-said-to-weigh-slashing-spending-by-a-quarter-in-2023?srnd=technology-vp"
+            },
+            "SoftBank-Backed Cancer Detection Startup May Go Public as Soon as 2023": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/softbank-backed-cancer-detection-startup-may-ipo-as-soon-as-2023?srnd=technology-vp"
+            },
+            "Crypto Exchange CoinFlex Set to Allow Limited Withdrawals": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/crypto-exchange-coinflex-set-to-allow-limited-withdrawals?srnd=technology-vp"
+            },
+            "Nidec CEO Says Stock Will Double in Two Years, Then He’ll Retire": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/nidec-ceo-says-stock-will-double-in-two-years-then-he-ll-retire?srnd=technology-vp"
+            },
+            "Coinbase May Drop From Ranks of Top Crypto Exchanges as Volume Falls": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/coinbase-may-drop-out-of-world-s-top-exchanges-as-volume-falls?srnd=technology-vp"
+            },
+            "Celsius Discloses $1.19 Billion Deficit in Bankruptcy Filing": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/celsius-discloses-1-19-billion-deficit-in-bankruptcy-filing?srnd=technology-vp"
+            },
+            "Google Parent Alphabet Names Goldman Sachs Veteran to Board": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/google-parent-alphabet-names-goldman-sachs-veteran-to-board?srnd=technology-vp"
+            },
+            "DOJ Poised to Rebuff Google Concessions, Clearing the Way for Antitrust Suit": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/google-ad-tech-concessions-unlikely-to-avert-doj-antitrust-suit?srnd=technology-vp"
+            },
+            "Upstart Amazon Union Pauses NYC Campaign as Momentum Fades": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/amazon-labor-union-pauses-nyc-campaign-as-momentum-falters?srnd=technology-vp"
+            },
+            "Alibaba Faces China Inquiry Over Data Theft, WSJ Says": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/alibaba-faces-china-inquiry-over-data-theft-wsj-says?srnd=technology-vp"
+            },
+            "NFT Marketplace OpenSea Cuts 20% of Staff as Crypto Job Losses Deepen": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/opensea-eliminates-20-of-workforce-as-crypto-job-losses-deepen?srnd=technology-vp"
+            },
+            "TSMC Hikes Outlook Yet Delays Spending as Uncertainty Looms": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/tsmc-profit-beats-estimates-in-sign-of-strong-tech-demand?srnd=technology-vp"
+            },
+            "Food Delivery Giant Meituan Hires Kuaishou’s Former Global Chief": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/food-delivery-giant-meituan-hires-kuaishou-s-former-global-chief?srnd=technology-vp"
+            },
+            "Going Electric Doesn’t Have To Be So Complicated": {
+                "date": "2022-07-14",
+                "link": "/opinion/articles/2022-07-14/india-is-showing-how-to-go-electric-fast?srnd=technology-vp"
+            },
+            "More Covid Boosters Are Coming, But Who Will Take Them?": {
+                "date": "2022-07-14",
+                "link": "/opinion/articles/2022-07-14/more-covid-boosters-are-coming-but-who-will-take-them?srnd=technology-vp"
+            },
+            "TSMC Has a $40 Billion Vaccine Against Inflation": {
+                "date": "2022-07-14",
+                "link": "/opinion/articles/2022-07-14/tsmc-has-a-40-billion-vaccine-against-inflation?srnd=technology-vp"
+            }
+        },
+        "Wealth": {
+            "Wall Street Texting Habit Sticks Banks With Rare $1 Billion Bill": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/wall-street-texting-habit-sticks-banks-with-rare-1-billion-bill?srnd=wealth"
+            },
+            "Supply of US Homes for Sale Rises for First Time in Three Years": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/will-home-prices-fall-listings-rise-for-the-first-time-in-three-years?srnd=wealth"
+            },
+            "Bank of America Fined $225 Million for Deceptive Practices in Card Program": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/bofa-fined-225-million-for-deceptive-practices-on-card-program?srnd=wealth"
+            },
+            "Archegos’s Bill Hwang Gets Freedom to Travel for Work on Foundation": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/archegos-founder-hwang-seeks-to-expand-travel-for-foundation?srnd=wealth"
+            },
+            "Wall Street Chiefs Stare Down Recession Fear With Upbeat Outlook": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/wall-street-chiefs-stare-down-recession-fear-with-upbeat-outlook?srnd=wealth"
+            },
+            "Is the US in a Recession Yet? What You Need To Know and How To Prepare": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/is-the-us-in-a-recession-how-to-prepare-for-economic-downturn?srnd=wealth"
+            },
+            "Zara’s Billionaire Owner to Buy Luxury New York Apartment Building for $500 Million": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/billionaire-zara-owner-to-buy-new-york-luxury-apartment-building?srnd=wealth"
+            },
+            "Mortgage Rates in the US Restart Climb, Increasing to 5.51%": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/mortgage-rates-in-the-us-restart-climb-increasing-to-5-51?srnd=wealth"
+            },
+            "Ken Griffin’s Citadel Plans to Open a Palm Beach Office as Part of Florida Move": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/griffin-s-citadel-to-open-a-palm-beach-office-amid-florida-move?srnd=wealth"
+            },
+            "AmEx Retools No-Fee Card as Customers Feel Pinch From Inflation": {
+                "date": "2022-07-14",
+                "link": "/news/articles/2022-07-14/amex-retools-no-fee-card-as-customers-feel-pinch-from-inflation?srnd=wealth"
+            }
+        },
+        "Opinion": {
+            "Who Has the Stomach — Or Obstinacy — to Stand Against the Dollar?": {
+                "date": "2022-07-15",
+                "link": "/opinion/articles/2022-07-15/who-has-the-stomach-or-obstinacy-to-stand-against-the-dollar?srnd=opinion"
+            },
+            "China Is Giving Off Strong Lehman Brothers Vibes": {
+                "date": "2022-07-14",
+                "link": "/opinion/articles/2022-07-14/china-real-estate-mortgage-revolt-hints-at-lehman-like-crisis?srnd=opinion"
+            },
+            "Draghi Turmoil Is Bad News for Italy": {
+                "date": "2022-07-14",
+                "link": "/opinion/articles/2022-07-14/draghi-s-crisis-comes-at-the-worst-possible-time-for-italy-and-europe?srnd=opinion"
+            },
+            "Is China Stumbling Into Its Own Mortgage Crisis?": {
+                "date": "2022-07-14",
+                "link": "/opinion/articles/2022-07-14/is-china-stumbling-into-its-own-mortgage-crisis?srnd=opinion"
+            },
+            "Going Electric Doesn’t Have To Be So Complicated": {
+                "date": "2022-07-14",
+                "link": "/opinion/articles/2022-07-14/india-is-showing-how-to-go-electric-fast?srnd=opinion"
+            },
+            "Biden Is Fighting the Wrong Battle Against China": {
+                "date": "2022-07-14",
+                "link": "/opinion/articles/2022-07-14/biden-has-right-china-policy-wrong-framing?srnd=opinion"
+            },
+            "TSMC Has a $40 Billion Vaccine Against Inflation": {
+                "date": "2022-07-14",
+                "link": "/opinion/articles/2022-07-14/tsmc-has-a-40-billion-vaccine-against-inflation?srnd=opinion"
+            }
+        }
+    },
+    "NYT": {
+        "Business": [
+            {
+                "title": "China’s Surveillance State Encounters Public Resistance",
+                "desc": "Beijing’s swift move to censor news about one of the largest known data breaches shows keen awareness of how major security lapses can harm its credibility.",
+                "tags": [
+                    "Facial Recognition Software",
+                    "Surveillance of Citizens by Government",
+                    "Politics and Government",
+                    "Privacy",
+                    "Computers and the Internet",
+                    "China",
+                    "Beijing (China)"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/china-data-privacy.html",
+                "date": "Thu, 14 Jul 2022 18:23:33"
+            },
+            {
+                "title": "10-Year-Old Ohio Girl Became Flash Point in Abortion Debate",
+                "desc": "The story of a 10-year-old girl in Ohio became the focus of a heated political debate that played out in the news media.",
+                "tags": [
+                    "News and News Media",
+                    "Abortion",
+                    "Child Abuse and Neglect",
+                    "Sex Crimes",
+                    "Columbus Dispatch",
+                    "Fox News Channel",
+                    "Indianapolis Star",
+                    "Washington Post",
+                    "Fuentes, Gerson (1995- )",
+                    "Kessler, Glenn (1959- )",
+                    "Biden, Joseph R Jr",
+                    "Wall Street Journal"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/media/10-year-old-girl-ohio-rape.html",
+                "date": "Fri, 15 Jul 2022 03:07:00"
+            },
+            {
+                "title": "China’s Economic Growth Slows Sharply as Covid Policy Takes a Toll",
+                "desc": "The humming economy has been replaced by high unemployment, a housing market in crisis and sluggish consumer spending in a year when Beijing is focused on projecting stability.",
+                "tags": [
+                    "China",
+                    "Economic Conditions and Trends",
+                    "Coronavirus (2019-nCoV)",
+                    "National Bureau of Statistics (China)"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/china-economy-slows.html",
+                "date": "Fri, 15 Jul 2022 02:47:29"
+            },
+            {
+                "title": "The Magic of Your First Work Friends",
+                "desc": "Early-career connections can be life-defining. For young people entering the work force today, the connections over Zoom are shaky.",
+                "tags": [
+                    "Friendship",
+                    "Workplace Environment",
+                    "Labor and Jobs",
+                    "Loneliness",
+                    "Telecommuting",
+                    "Kahneman, Daniel",
+                    "Lewis, Michael",
+                    "Tversky, Amos"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/work-friends.html",
+                "date": "Fri, 15 Jul 2022 01:05:45"
+            },
+            {
+                "title": "Electric Car Sales Climb Sharply Despite Shortages",
+                "desc": "A scarcity of semiconductors and raw materials held back production, but buyers remain enthusiastic.",
+                "tags": [
+                    "Electric and Hybrid Vehicles",
+                    "Automobiles",
+                    "Factories and Manufacturing",
+                    "Tesla Motors Inc",
+                    "Ford Motor Co",
+                    "Volkswagen AG",
+                    "Batteries",
+                    "Company Reports",
+                    "General Motors",
+                    "Stellantis NV",
+                    "Honda Motor Co Ltd",
+                    "Hyundai Motor Co",
+                    "Kia Motors Corp",
+                    "Nissan Motor Co",
+                    "Toyota Motor Corp"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/electric-car-sales.html",
+                "date": "Fri, 15 Jul 2022 01:58:45"
+            },
+            {
+                "title": "Amazon Moves to End Long-Running E.U. Antitrust Case",
+                "desc": "The retail giant said it would stop collecting nonpublic data on rivals and give merchants more ways to reach customers.",
+                "tags": [
+                    "E-Commerce",
+                    "Antitrust Laws and Competition Issues",
+                    "European Commission",
+                    "Amazon.com Inc"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/amazon-europe-antitrust.html",
+                "date": "Thu, 14 Jul 2022 18:55:32"
+            },
+            {
+                "title": "The Housing Shortage Isn’t Just a Coastal Crisis Anymore",
+                "desc": "An increasingly national problem has consequences for the quality of American family life, the economy and the future of housing politics.",
+                "tags": [
+                    "Real Estate and Housing (Residential)",
+                    "United States Economy",
+                    "Zoning",
+                    "Shortages",
+                    "States (US)",
+                    "Homeless Persons",
+                    "Area Planning and Renewal"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/upshot/housing-shortage-us.html",
+                "date": "Thu, 14 Jul 2022 17:50:28"
+            },
+            {
+                "title": "How to Invest During Inflation",
+                "desc": "While the news may indicate that the markets and economy are rocky, long-term investors can ride it out with a little luck and a lot of planning, our columnist says.",
+                "tags": [
+                    "United States Economy",
+                    "Recession and Depression",
+                    "Content Type: Service",
+                    "Inflation (Economics)",
+                    "Interest Rates",
+                    "Stocks and Bonds",
+                    "Unemployment",
+                    "Federal Reserve System"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/investing-inflation-recession.html",
+                "date": "Thu, 14 Jul 2022 16:16:22"
+            },
+            {
+                "title": "Democrats Face Deepening Peril as Republicans Seize on Inflation Fears",
+                "desc": "Economists warn that a blitz of midterm election campaign ads could push consumer prices even higher.",
+                "tags": [
+                    "Inflation (Economics)",
+                    "Economic Conditions and Trends",
+                    "United States Economy",
+                    "United States Politics and Government",
+                    "Elections, House of Representatives",
+                    "Elections, Senate",
+                    "Democratic Party",
+                    "Republican Party",
+                    "Political Advertising"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/us/politics/democrats-republicans-inflation-midterms.html",
+                "date": "Fri, 15 Jul 2022 01:46:14"
+            },
+            {
+                "title": "Bank of America Is Fined $225 Million Over Pandemic Debit Cards",
+                "desc": "An automated fraud filter improperly froze thousands of customers’ accounts, regulators said.",
+                "tags": [
+                    "Bank of America Corporation",
+                    "Fines (Penalties)",
+                    "Unemployment Insurance",
+                    "Assets, Frozen",
+                    "Unemployment",
+                    "Consumer Financial Protection Bureau",
+                    "Office of the Comptroller of the Currency",
+                    "Coronavirus (2019-nCoV)",
+                    "Consumer Protection",
+                    "Federal Aid (US)",
+                    "Chopra, Rohit"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/bank-of-america-fined-unemployment.html",
+                "date": "Thu, 14 Jul 2022 21:32:10"
+            },
+            {
+                "title": "A Watchdog Report Absolves Financial Transactions by 2 Fed Officials",
+                "desc": "The Fed’s chair and vice chair did not violate any rules, the report found. Still, some found the description of the vice chair’s trades unsatisfying.",
+                "tags": [
+                    "Banking and Financial Institutions",
+                    "Stocks and Bonds",
+                    "Federal Reserve System",
+                    "Clarida, Richard H (1957- )",
+                    "Kaplan, Robert S",
+                    "Powell, Jerome H",
+                    "Rosengren, Eric S"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/watchdog-absolves-fed-officials.html",
+                "date": "Thu, 14 Jul 2022 21:47:36"
+            },
+            {
+                "title": "Stripe, the Payments Start-Up, Lowers Internal Valuation 28 Percent",
+                "desc": "A sell-off of tech stocks in the public markets has prompted private start-ups to evaluate whether their soaring valuations over the past two years will hold up.",
+                "tags": [
+                    "Venture Capital",
+                    "Entrepreneurship",
+                    "Start-ups",
+                    "Initial Public Offerings",
+                    "Stripe Inc"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/technology/stripe-payments-startup-valuation.html",
+                "date": "Thu, 14 Jul 2022 20:42:51"
+            },
+            {
+                "title": "Barbara Kruger: A Way With Words",
+                "desc": "She created some of the most memorable works of her era. Now the activist-artist is back with two immersive shows, at MoMA and David Zwirner Gallery.",
+                "tags": [
+                    "Art",
+                    "Women's Rights",
+                    "Museums",
+                    "Kruger, Barbara",
+                    "Design",
+                    "Advertising and Marketing",
+                    "Museum of Modern Art",
+                    "Orwell, George",
+                    "Zwirner, David",
+                    "Chelsea (Manhattan, NY)"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/arts/design/barbara-kruger-artist-moma-zwirner-feminist.html",
+                "date": "Thu, 14 Jul 2022 20:39:29"
+            },
+            {
+                "title": "Fed Governor Waller Signals a Full-Point Rate Increase Is Possible",
+                "desc": "Christopher Waller, a Federal Reserve governor, could support an even bigger July rate increase than the Fed’s large June move if economic data continue to come in hot.",
+                "tags": [
+                    "Inflation (Economics)",
+                    "United States Economy",
+                    "Interest Rates",
+                    "Federal Reserve System",
+                    "Waller, Christopher (1959- )"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/federal-reserve-rate-increase.html",
+                "date": "Thu, 14 Jul 2022 18:49:52"
+            },
+            {
+                "title": "Guardian Names Betsy Reed, The Intercept’s Top Editor, to Run Its U.S. Newsroom",
+                "desc": "Ms. Reed, who joined The Intercept in 2015, will start in the fall.",
+                "tags": [
+                    "Guardian (British Newspaper)",
+                    "Reed, Betsy (Journalist)",
+                    "News and News Media",
+                    "Magazines"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/media/guardian-betsy-reed.html",
+                "date": "Thu, 14 Jul 2022 16:16:25"
+            },
+            {
+                "title": "Stocks Fall Further as Bank Earnings Add to Concerns About the Economy",
+                "desc": "Companies in the United States are starting to report their earnings for the second quarter, a chance for investors to assess how hard businesses are being hit by economic headwinds.",
+                "tags": [
+                    "United States Economy",
+                    "Interest Rates",
+                    "Recession and Depression",
+                    "Inflation (Economics)",
+                    "Company Reports",
+                    "Banking and Financial Institutions",
+                    "JPMorgan Chase & Company",
+                    "Federal Reserve System"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/stocks-economy-earnings-banks.html",
+                "date": "Thu, 14 Jul 2022 20:25:03"
+            },
+            {
+                "title": "S.E.C. Broadens Inquiry Into Elon Musk’s Disclosures About Twitter",
+                "desc": "The agency questioned whether a tweet Mr. Musk sent in May about the acquisition of Twitter should have been disclosed to the agency and investors.",
+                "tags": [
+                    "Social Media",
+                    "Securities and Commodities Violations",
+                    "Mergers, Acquisitions and Divestitures",
+                    "Twitter",
+                    "Securities and Exchange Commission",
+                    "Musk, Elon"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/technology/twitter-elon-musk-sec.html",
+                "date": "Thu, 14 Jul 2022 18:43:29"
+            },
+            {
+                "title": "JPMorgan Chase Earnings Fall, but Execs Don’t See a Recession",
+                "desc": "As profits slowed at Morgan Stanley and JPMorgan Chase, executives said that lending to consumers and businesses remained healthy but that risks loomed “down the road.”",
+                "tags": [
+                    "United States Economy",
+                    "Company Reports",
+                    "Banking and Financial Institutions",
+                    "Recession and Depression",
+                    "JPMorgan Chase & Company",
+                    "Morgan Stanley",
+                    "Dimon, James"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/jpmorgan-earnings-economy.html",
+                "date": "Thu, 14 Jul 2022 20:20:11"
+            },
+            {
+                "title": "Has remote work changed your relationships with colleagues?",
+                "desc": "Tell us about your experience with work friendships when you’re not in the office.",
+                "tags": [
+                    "internal-open-access",
+                    "Telecommuting",
+                    "Workplace Environment"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/remote-work-colleagues.html",
+                "date": "Thu, 14 Jul 2022 14:16:33"
+            },
+            {
+                "title": "Twitter Is Down in a Worldwide Outage",
+                "desc": "The social networking site went offline on Thursday morning, affecting users worldwide. The interruption comes as the company is fighting Elon Musk over a proposed acquisition.",
+                "tags": [
+                    "Computer Network Outages",
+                    "Twitter"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/twitter-outage.html",
+                "date": "Thu, 14 Jul 2022 14:27:11"
+            },
+            {
+                "title": "Biden, Oil and the Middle East",
+                "desc": "Under pressure as tight oil supplies hurt the U.S. economy, Biden will go to Saudi Arabia for a meeting with M.B.S.",
+                "tags": [
+                    "United States International Relations",
+                    "United States Economy",
+                    "Peace Process",
+                    "Politics and Government",
+                    "Coronavirus (2019-nCoV)",
+                    "International Relations",
+                    "Alibaba Group Holding Ltd",
+                    "Celsius Network LLC",
+                    "Delta Air Lines Inc",
+                    "JPMorgan Chase & Company",
+                    "Morgan Stanley",
+                    "Middle East",
+                    "Israel",
+                    "China",
+                    "France",
+                    "Russia",
+                    "Saudi Arabia",
+                    "Ukraine",
+                    "United Arab Emirates",
+                    "United States"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/dealbook/biden-saudi-arabia-oil-middle-east-netflix.html",
+                "date": "Thu, 14 Jul 2022 13:10:52"
+            },
+            {
+                "title": "Yellen Says It’s in Russia’s Interest to Go Along With Oil Price Cap",
+                "desc": "Facing sanctions on its exports, Russia could continue selling oil profitably under a cap, the U.S. Treasury secretary said, while global strains on supply and pressure on prices would reduce.",
+                "tags": [
+                    "Embargoes and Sanctions",
+                    "Oil (Petroleum) and Gasoline",
+                    "Prices (Fares, Fees and Rates)",
+                    "International Trade and World Market",
+                    "Russian Invasion of Ukraine (2022)",
+                    "Yellen, Janet L",
+                    "Treasury Department",
+                    "Russia",
+                    "United States International Relations"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/yellen-russia-oil-cap.html",
+                "date": "Fri, 15 Jul 2022 02:22:32"
+            },
+            {
+                "title": "What to See, Eat and Do in Toronto",
+                "desc": "It’s the city’s traditional high season and it is celebrating with newly opened hotels and restaurants and a revived live-performance scene.",
+                "tags": [
+                    "Travel and Vacations",
+                    "Restaurants",
+                    "Quarantine (Life and Culture)",
+                    "Culture (Arts)",
+                    "Summer (Season)",
+                    "Theater",
+                    "Hotels and Travel Lodgings",
+                    "Museums",
+                    "Music",
+                    "Food",
+                    "Toronto (Ontario)"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/travel/toronto-see-eat-do.html",
+                "date": "Thu, 14 Jul 2022 19:21:35"
+            },
+            {
+                "title": "Drug-Resistant Infections in Hospitals Soared During the Pandemic, C.D.C. Says",
+                "desc": "A new report says the havoc wrought by the coronavirus reversed gains made by health care facilities to combat deadly pathogens.",
+                "tags": [
+                    "Hospitals",
+                    "Coronavirus (2019-nCoV)",
+                    "Antibiotics",
+                    "Bacteria",
+                    "Infections",
+                    "Drug Resistance (Microbial)",
+                    "Candida Auris (Fungus)",
+                    "Workplace Hazards and Violations",
+                    "Centers for Disease Control and Prevention",
+                    "Deaths (Fatalities)",
+                    "United States",
+                    "your-feed-healthcare"
+                ],
+                "link": "https://www.nytimes.com/2022/07/13/health/cdc-drug-resistant-infections.html",
+                "date": "Fri, 15 Jul 2022 00:38:18"
+            },
+            {
+                "title": "High Inflation in June Puts Pressure on Interest Rates",
+                "desc": "Prices climbed 9.1 percent from a year earlier, ramping up pressure on the Federal Reserve to continue raising interest rates.",
+                "tags": [
+                    "United States Economy",
+                    "Inflation (Economics)",
+                    "Interest Rates",
+                    "Federal Reserve System",
+                    "Prices (Fares, Fees and Rates)",
+                    "Consumer Price Index",
+                    "Biden, Joseph R Jr",
+                    "Oil (Petroleum) and Gasoline",
+                    "Food",
+                    "United States Politics and Government"
+                ],
+                "link": "https://www.nytimes.com/2022/07/13/business/economy/inflation-june-interest-rates.html",
+                "date": "Thu, 14 Jul 2022 00:11:39"
+            }
+        ],
+        "Economy": [
+            {
+                "title": "Democrats Face Deepening Peril as Republicans Seize on Inflation Fears",
+                "desc": "Economists warn that a blitz of midterm election campaign ads could push consumer prices even higher.",
+                "tags": [
+                    "Inflation (Economics)",
+                    "Economic Conditions and Trends",
+                    "United States Economy",
+                    "United States Politics and Government",
+                    "Elections, House of Representatives",
+                    "Elections, Senate",
+                    "Democratic Party",
+                    "Republican Party",
+                    "Political Advertising"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/us/politics/democrats-republicans-inflation-midterms.html",
+                "date": "Fri, 15 Jul 2022 01:46:14"
+            },
+            {
+                "title": "High Inflation in June Puts Pressure on Interest Rates",
+                "desc": "Prices climbed 9.1 percent from a year earlier, ramping up pressure on the Federal Reserve to continue raising interest rates.",
+                "tags": [
+                    "United States Economy",
+                    "Inflation (Economics)",
+                    "Interest Rates",
+                    "Federal Reserve System",
+                    "Prices (Fares, Fees and Rates)",
+                    "Consumer Price Index",
+                    "Biden, Joseph R Jr",
+                    "Oil (Petroleum) and Gasoline",
+                    "Food",
+                    "United States Politics and Government"
+                ],
+                "link": "https://www.nytimes.com/2022/07/13/business/economy/inflation-june-interest-rates.html",
+                "date": "Thu, 14 Jul 2022 00:11:39"
+            }
+        ],
+        "Technology": [
+            {
+                "title": "The Tech Magic That Unleashed Your Best",
+                "desc": "Our readers tell us about the surprising ways in which tech has helped them discover new worlds.",
+                "tags": [
+                    "internal-sub-only-nl",
+                    "Google Inc",
+                    "Computers and the Internet",
+                    "Mobile Applications"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/technology/tech-apps-creativity.html",
+                "date": "Thu, 14 Jul 2022 18:38:56"
+            },
+            {
+                "title": "Stripe, the Payments Start-Up, Lowers Internal Valuation 28 Percent",
+                "desc": "A sell-off of tech stocks in the public markets has prompted private start-ups to evaluate whether their soaring valuations over the past two years will hold up.",
+                "tags": [
+                    "Venture Capital",
+                    "Entrepreneurship",
+                    "Start-ups",
+                    "Initial Public Offerings",
+                    "Stripe Inc"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/technology/stripe-payments-startup-valuation.html",
+                "date": "Thu, 14 Jul 2022 20:42:51"
+            },
+            {
+                "title": "S.E.C. Broadens Inquiry Into Elon Musk’s Disclosures About Twitter",
+                "desc": "The agency questioned whether a tweet Mr. Musk sent in May about the acquisition of Twitter should have been disclosed to the agency and investors.",
+                "tags": [
+                    "Social Media",
+                    "Securities and Commodities Violations",
+                    "Mergers, Acquisitions and Divestitures",
+                    "Twitter",
+                    "Securities and Exchange Commission",
+                    "Musk, Elon"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/technology/twitter-elon-musk-sec.html",
+                "date": "Thu, 14 Jul 2022 18:43:29"
+            },
+            {
+                "title": "Twitter Is Down in a Worldwide Outage",
+                "desc": "The social networking site went offline on Thursday morning, affecting users worldwide. The interruption comes as the company is fighting Elon Musk over a proposed acquisition.",
+                "tags": [
+                    "Computer Network Outages",
+                    "Twitter"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/twitter-outage.html",
+                "date": "Thu, 14 Jul 2022 14:27:11"
+            },
+            {
+                "title": "Electric Car Sales Climb Sharply Despite Shortages",
+                "desc": "A scarcity of semiconductors and raw materials held back production, but buyers remain enthusiastic.",
+                "tags": [
+                    "Electric and Hybrid Vehicles",
+                    "Automobiles",
+                    "Factories and Manufacturing",
+                    "Tesla Motors Inc",
+                    "Ford Motor Co",
+                    "Volkswagen AG",
+                    "Batteries",
+                    "Company Reports",
+                    "General Motors",
+                    "Stellantis NV",
+                    "Honda Motor Co Ltd",
+                    "Hyundai Motor Co",
+                    "Kia Motors Corp",
+                    "Nissan Motor Co",
+                    "Toyota Motor Corp"
+                ],
+                "link": "https://www.nytimes.com/2022/07/14/business/electric-car-sales.html",
+                "date": "Fri, 15 Jul 2022 01:58:45"
+            }
+        ]
+    },
+    "WP": {
+        "Politics": [
+            {
+                "title": "Ivana Trump, first wife of Donald Trump, dies at 73",
+                "desc": "The Czech immigrant and businesswoman had a 13-year marriage to the former president and was the mother of his three eldest children.",
+                "link": "https://www.washingtonpost.com/politics/2022/07/14/ivana-trump-donald-trump/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 20:46:40"
+            },
+            {
+                "title": "Post Politics Now: Biden says U.S. is ‘not going to wait forever’ for Iran to rejoin nuclear deal",
+                "desc": "The U.S. president is continuing his first trip to Israel since becoming president.",
+                "link": "https://www.washingtonpost.com/politics/2022/07/14/biden-israel-williams-honor-capitol/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 20:44:54"
+            },
+            {
+                "title": "Biden’s first Mideast trip as president",
+                "desc": "President Joe Biden on Wednesday opened his first visit to the Mideast since taking office by offering anxious Israeli leaders strong reassurances of his determination to stop Iran’s growing nuclear program, saying he’d be willing to use force as a “last resort.”",
+                "link": "https://www.washingtonpost.com/politics/interactive/2022/biden-first-mideast-trip/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 20:39:49"
+            },
+            {
+                "title": "What Ohio abortion law says about a 10-year-old rape victim",
+                "desc": "State Attorney General Dave Yost (R) has said the girl didn't need to leave the state for an abortion. Here's what the law actually says.",
+                "link": "https://www.washingtonpost.com/politics/2022/07/14/what-ohio-law-says-about-10-year-old-rape-victim-abortion/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 17:19:49"
+            },
+            {
+                "title": "Biden’s dodge on Khashoggi drives home his Saudi Arabia flip-flop",
+                "desc": "Biden on Thursday declined to even commit to raising Jamal Khashoggi in his upcoming meeting with the Saudis. In 2019, he cited the assassination when saying he would treat Saudi Arabia as a \"pariah.\"",
+                "link": "https://www.washingtonpost.com/politics/2022/06/03/bidens-flip-flop-saudi-arabia/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 11:06:36"
+            },
+            {
+                "title": "After stroke, John Fetterman takes small steps back into Pa. Senate race ",
+                "desc": "Fetterman’s advisors are adamant that he will be ready to take on his Republican opponent, Dr. Mehmet Oz, the former TV talk show host, in November.",
+                "link": "https://www.washingtonpost.com/politics/2022/07/14/fetterman-stroke-senate/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 19:53:26"
+            },
+            {
+                "title": "House lays out demands for Pentagon over Russia, extremism, inflation",
+                "desc": "The legislation, considered one of the few “must-pass” bills Congress authors each year, is yet to be reconciled with the Senate’s version.",
+                "link": "https://www.washingtonpost.com/national-security/2022/07/14/ndaa-pentagon-defense-authorization-bill/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 19:10:30"
+            },
+            {
+                "title": "Trump called member of White House support staff amid Jan. 6 probe",
+                "desc": "The phone call was referenced by committee vice chair Liz Cheney, who said the matter had been referred to the Justice Department.",
+                "link": "https://www.washingtonpost.com/national-security/2022/07/14/trump-called-member-white-house-support-staff-amid-jan-6-probe/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 18:52:54"
+            },
+            {
+                "title": "Man cleared of Malcolm X murder sues New York over wrongful conviction",
+                "desc": "Aziz, 84, was wrongly convicted of killing Malcolm X and imprisoned for 20 years. It took 55 years to clear his name. He is seeking $40 million from New York.",
+                "link": "https://www.washingtonpost.com/national-security/2022/07/14/aziz-malcom-x-lawsuit/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 18:42:42"
+            },
+            {
+                "title": "Inside Gretchen Whitmer's abortion fight",
+                "desc": "In a political party that has been criticized for its lukewarm response to the Dobbs decision, Democratic Gov. Gretchen Whitmer of Michigan appears to stand out. We take you inside her fight — and her family’s — to protect abortion access in her home state.",
+                "link": "https://www.washingtonpost.com/podcasts/post-reports/inside-gretchen-whitmers-abortion-fight/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 17:31:59"
+            },
+            {
+                "title": "What Ohio abortion law says about a 10-year-old rape victim",
+                "desc": "State Attorney General Dave Yost (R) has said the girl didn't need to leave the state for an abortion. Here's what the law actually says.",
+                "link": "https://www.washingtonpost.com/politics/2022/07/14/what-ohio-law-says-about-10-year-old-rape-victim-abortion/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 17:19:49"
+            },
+            {
+                "title": "Covid emerges as a complication for a Democratic economic deal",
+                "desc": "Positive tests this week highlight the razor's edge Democrats are walking in a 50-50 Senate and the partisan disparity in the pandemic's toll on Capitol Hill.",
+                "link": "https://www.washingtonpost.com/politics/2022/07/14/senate-covid-testing/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 16:04:25"
+            },
+            {
+                "title": "The weird divergence between views of Biden and support for his party",
+                "desc": "Biden's approval keeps dropping, but his party's position in the midterms keeps staying the same.",
+                "link": "https://www.washingtonpost.com/politics/2022/07/14/weird-divergence-between-views-biden-support-his-party/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 15:47:46"
+            },
+            {
+                "title": "Armed man arrested outside home of Rep. Jayapal for alleged death threat",
+                "desc": "The man was released from jail Wednesday after police could not confirm a neighbor's report that the suspect yelled, “Go back to India, I’m going to kill you.\"",
+                "link": "https://www.washingtonpost.com/politics/2022/07/14/man-arrested-threats-pramila-jayapal/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 14:00:05"
+            },
+            {
+                "title": "We have reached the apex of election-fraud debunking",
+                "desc": "A thorough new report makes obvious that nothing can derail election fraud falsehoods except Trump. But probably not even Trump.",
+                "link": "https://www.washingtonpost.com/politics/2022/07/14/we-have-reached-apex-election-fraud-debunking/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 13:57:16"
+            },
+            {
+                "title": "Donald Trump looks to fall launch for 2024, potentially upending midterms",
+                "desc": "Some Republicans fear a Trump announcement he will run in 2024 will undercut them at a time when they have a strong chance of retaking the House and Senate.",
+                "link": "https://www.washingtonpost.com/politics/2022/07/14/trump-2024-announcement-fall/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 13:47:27"
+            },
+            {
+                "title": "A post-Roe surge could reshape this Illinois steel mill town ",
+                "desc": "The Supreme Court’s decision last month to overturn Roe v. Wade suddenly left Granite City and other communities in southern Illinois as home to the closest abortion clinics for women hundreds of miles away.",
+                "link": "https://www.washingtonpost.com/nation/2022/07/14/an-illinois-town-wrestles-with-new-identity-national-abortion-destination/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 13:30:11"
+            },
+            {
+                "title": "Radio stations don’t have to check if programmers are foreign agents",
+                "desc": "The U.S. Court of Appeals for the D.C. Circuit knocked down a rule from the Federal Communications Commission aimed at Chinese and Russian broadcasts.",
+                "link": "https://www.washingtonpost.com/dc-md-va/2022/07/14/foreign-radio-fcc/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 12:53:51"
+            },
+            {
+                "title": "After arrest in rape of 10-year-old girl, Fox News hosts shift focus",
+                "desc": "Some of the network’s most high-profile hosts — Tucker Carlson, Laura Ingraham, Jesse Watters — suggested this week that the account of the 10-year-old rape victim in Ohio who had to get an abortion in Indiana was a “hoax” and “politically timed disinformation.”",
+                "link": "https://www.washingtonpost.com/politics/2022/07/14/abortion-girl-rape-fox-carlson-watters-ohio/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 12:51:01"
+            },
+            {
+                "title": "Biden’s dodge on Khashoggi drives home his Saudi Arabia flip-flop",
+                "desc": "Biden on Thursday declined to even commit to raising Jamal Khashoggi in his upcoming meeting with the Saudis. In 2019, he cited the assassination when saying he would treat Saudi Arabia as a \"pariah.\"",
+                "link": "https://www.washingtonpost.com/politics/2022/06/03/bidens-flip-flop-saudi-arabia/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 11:06:36"
+            },
+            {
+                "title": "What the Ohio rape case tells us about post-Roe abortion politics",
+                "desc": "The tragic incident of a 10-year-old rape victim has highlighted the utility of antiabortion posturing.",
+                "link": "https://www.washingtonpost.com/politics/2022/07/14/what-ohio-rape-case-tells-us-about-post-roe-abortion-politics/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 10:39:10"
+            },
+            {
+                "title": "Biden defends visit to Saudi Arabia despite Khashoggi killing ",
+                "desc": "Biden defends his Saudi visit as a counter to Chinese and Russian influence. He does not say whether he will bring up the Khashoggi killing with the Saudis.",
+                "link": "https://www.washingtonpost.com/politics/2022/07/14/biden-israel-lapid-khashoggi-saudi/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+                "date": "Thu, 14 Jul 2022 08:10:32"
+            }
+        ],
+        "Tech": [
+            {
+                "title": "Nintendo buys animation studio amid video game blockbuster renaissance",
+                "desc": "The CG production studio Dynamo Pictures, soon to be Nintendo Pictures, previously worked on games like “Monster Hunter: World\" and “Death Stranding.”",
+                "link": "https://www.washingtonpost.com/video-games/2022/07/14/nintendo-dynamo-pictures-acquisition-movies/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology",
+                "date": "Thu, 14 Jul 2022 18:30:45"
+            },
+            {
+                "title": "In Hollywood, a crypto platform that isn’t just a way to lose your savings",
+                "desc": "A use case for the blockchain to find the next \"Godfather\"",
+                "link": "https://www.washingtonpost.com/technology/2022/07/14/film-crypto-decentralized-coppola/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology",
+                "date": "Thu, 14 Jul 2022 17:59:35"
+            },
+            {
+                "title": "After covid closed escape rooms, these game designers made a virtual one",
+                "desc": "\"Escape Academy\" is a virtual co-op escape room. The developers drew on their experience building real escape rooms — a business that faltered due to covid.",
+                "link": "https://www.washingtonpost.com/video-games/2022/07/14/escape-academy-virtual-escape-room/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology",
+                "date": "Thu, 14 Jul 2022 15:39:17"
+            },
+            {
+                "title": "Nintendo buys animation studio amid video game blockbuster renaissance",
+                "desc": "The CG production studio Dynamo Pictures, soon to be Nintendo Pictures, previously worked on games like “Monster Hunter: World\" and “Death Stranding.”",
+                "link": "https://www.washingtonpost.com/video-games/2022/07/14/nintendo-dynamo-pictures-acquisition-movies/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology",
+                "date": "Thu, 14 Jul 2022 18:30:45"
+            },
+            {
+                "title": "In Hollywood, a crypto platform that isn’t just a way to lose your savings",
+                "desc": "A use case for the blockchain to find the next \"Godfather\"",
+                "link": "https://www.washingtonpost.com/technology/2022/07/14/film-crypto-decentralized-coppola/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology",
+                "date": "Thu, 14 Jul 2022 17:59:35"
+            },
+            {
+                "title": "After covid closed escape rooms, these game designers made a virtual one",
+                "desc": "\"Escape Academy\" is a virtual co-op escape room. The developers drew on their experience building real escape rooms — a business that faltered due to covid.",
+                "link": "https://www.washingtonpost.com/video-games/2022/07/14/escape-academy-virtual-escape-room/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology",
+                "date": "Thu, 14 Jul 2022 15:39:17"
+            },
+            {
+                "title": "Radio stations don’t have to check if programmers are foreign agents",
+                "desc": "The U.S. Court of Appeals for the D.C. Circuit knocked down a rule from the Federal Communications Commission aimed at Chinese and Russian broadcasts.",
+                "link": "https://www.washingtonpost.com/dc-md-va/2022/07/14/foreign-radio-fcc/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology",
+                "date": "Thu, 14 Jul 2022 12:53:51"
+            },
+            {
+                "title": "Sony announces PlayStation Stars, a loyalty program for gamers",
+                "desc": "Sony is adding a free rewards and loyalty program for gamers named after the boundless connotations associated with stars.",
+                "link": "https://www.washingtonpost.com/video-games/2022/07/14/sony-playstation-stars-announcement/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology",
+                "date": "Thu, 14 Jul 2022 09:00:14"
+            },
+            {
+                "title": "Google’s campus is trying the hardest, but can perks compete with WFH?",
+                "desc": "Google’s latest Bay View campus is a massive steel circus tent-like structure; it’s young, fun and whimsical but debuts at a time many workers don’t want to go to back.",
+                "link": "https://www.washingtonpost.com/technology/2022/07/14/google-bay-view/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology",
+                "date": "Thu, 14 Jul 2022 07:00:00"
+            },
+            {
+                "title": "Ukraine says Big Tech has dropped the ball on Russian propaganda",
+                "desc": "Ukrainian officials say platforms like YouTube, Twitter and LinkedIn are no longer applying the same vigilance to Russian propaganda and disinformation efforts.",
+                "link": "https://www.washingtonpost.com/technology/2022/07/14/ukraine-takedown-requests-russia-propaganda/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology",
+                "date": "Thu, 14 Jul 2022 03:00:14"
+            }
+        ],
+        "Business": [
+            {
+                "title": "About the Uber Files investigation",
+                "desc": "The Uber Files is an international investigation into the ride-hailing company based on more than 124,000 leaked records, reviewed by The Post, the Guardian, ICIJ and media partners.",
+                "link": "https://www.washingtonpost.com/business/2022/uber-files-investigation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 07:28:43"
+            },
+            {
+                "title": "In Hollywood, a crypto platform that isn’t just a way to lose your savings",
+                "desc": "A use case for the blockchain to find the next \"Godfather\"",
+                "link": "https://www.washingtonpost.com/technology/2022/07/14/film-crypto-decentralized-coppola/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 05:59:35"
+            },
+            {
+                "title": "Stocks stumble amid interest rate, inflation worries",
+                "desc": "Disappointing quarterly results from JPMorgan Chase and Morgan Stanley also offer more bad news for the economy.",
+                "link": "https://www.washingtonpost.com/business/2022/07/14/markets-interest-rates-recession/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 04:51:11"
+            },
+            {
+                "title": "Tops market to reopen in Buffalo, two months after racist massacre",
+                "desc": "The Tops market serves a mostly Black section of Buffalo, an area that was allegedly targeted by the gunman because of his racist beliefs.",
+                "link": "https://www.washingtonpost.com/nation/2022/07/14/tops-reopen-buffalo-indictment/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 04:12:52"
+            },
+            {
+                "title": "Fed inspector general probe clears Powell, Clarida of violating laws",
+                "desc": "The Fed's Office of the Inspector General launched an investigation last year into the financial activities of multiple top Fed officials",
+                "link": "https://www.washingtonpost.com/business/2022/07/14/fed-ethics-scandal/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 02:49:40"
+            },
+            {
+                "title": "Surfside tragedy makes condo buying challenging nationwide",
+                "desc": "Real estate agents, condo associations and mortgage brokers say the new rules from Fannie Mae and Freddie Mac are having a chilling effect on the market.",
+                "link": "https://www.washingtonpost.com/business/2022/07/14/new-condo-lending-rules-surfside/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 02:40:39"
+            },
+            {
+                "title": "Calculate how much more mortgages will cost as interest rates rise",
+                "desc": "See the difference in monthly costs between a typical mortgage signed today and one signed just a few months ago.",
+                "link": "https://www.washingtonpost.com/business/interactive/2022/mortgage-interest-rates/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 10:31:12"
+            },
+            {
+                "title": "Mortgage rates spike as concerns about inflation persist",
+                "desc": "After the biggest one-week decline since 2008, the 30-year fixed-rate average headed higher, rising to 5.51 percent.",
+                "link": "https://www.washingtonpost.com/business/2022/07/14/mortgage-rates-spike-concerns-about-inflation-persist/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 10:00:00"
+            },
+            {
+                "title": "I know I need to go on disability leave, but I’m still terrified",
+                "desc": "Intellectually, I know it is time to take short-term disability leave. Emotionally, I am terrified of leaving a well-paid job at the age of 60.",
+                "link": "https://www.washingtonpost.com/business/2022/07/14/how-to-be-mentally-strong-dealing-with-disability/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 07:00:00"
+            },
+            {
+                "title": "Fertilizer crisis delivers profits and pain as Ukraine fallout broadens",
+                "desc": "“It’s brutal. Farmers aren’t buying what they need; they are buying what they can afford,” one expert said.",
+                "link": "https://www.washingtonpost.com/business/2022/07/14/fertilizer-inflation-food-shortage/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 06:00:29"
+            },
+            {
+                "title": "Bill Gates gives foundation $20 billion to fight ‘huge global setbacks’",
+                "desc": "The funds will support public health and climate adaption, the Microsoft co-founder said, as he aims to move \"off of the list of the world’s richest people.”",
+                "link": "https://www.washingtonpost.com/business/2022/07/14/bill-gates-donates-foundation-wealth/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 02:46:06"
+            },
+            {
+                "title": "Nintendo buys animation studio amid video game blockbuster renaissance",
+                "desc": "The CG production studio Dynamo Pictures, soon to be Nintendo Pictures, previously worked on games like “Monster Hunter: World\" and “Death Stranding.”",
+                "link": "https://www.washingtonpost.com/video-games/2022/07/14/nintendo-dynamo-pictures-acquisition-movies/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 06:30:45"
+            },
+            {
+                "title": "Why Twitter is now taking Elon Musk to court",
+                "desc": "Twitter is suing Elon Musk to force him to buy the tech giant. Silicon Valley correspondent Elizabeth Dwoskin explains how the legal drama has unfolded.",
+                "link": "https://www.washingtonpost.com/video/technology/why-twitter-is-now-taking-elon-musk-to-court/2022/07/14/a840263f-fbca-4bde-99cb-fc62fcc815c4_video.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 04:06:49"
+            },
+            {
+                "title": "After covid closed escape rooms, these game designers made a virtual one",
+                "desc": "\"Escape Academy\" is a virtual co-op escape room. The developers drew on their experience building real escape rooms — a business that faltered due to covid.",
+                "link": "https://www.washingtonpost.com/video-games/2022/07/14/escape-academy-virtual-escape-room/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 03:39:18"
+            },
+            {
+                "title": "A Chevy Chase family refreshes a stately Colonial ",
+                "desc": "Many modern home renovations begin by removing all the home’s interior walls and reconfiguring the space, but that didn’t happen here.",
+                "link": "https://www.washingtonpost.com/business/2022/07/14/fabulous-home-remodel-in-chevy-chase-md/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 08:00:56"
+            },
+            {
+                "title": "Former medical clinic space converted to housing on Capitol Hill",
+                "desc": "TOWN SQUARE | The community’s prime location offers walkability to government buildings, museums, restaurants, shops and is close to two parks.",
+                "link": "https://www.washingtonpost.com/business/2022/07/14/former-medical-clinic-space-converted-housing-capitol-hill/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 05:30:29"
+            },
+            {
+                "title": "Who Has the Stomach — Or Obstinacy — to Stand Against the Dollar?",
+                "desc": "The often-asserted decline of US influence will have to wait, again.  ",
+                "link": "https://www.washingtonpost.com/business/who-has-the-stomach--or-obstinacy-to-stand-against-the-dollar/2022/07/14/59df0eba-03e3-11ed-8beb-2b4e481b1500_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 10:40:29"
+            },
+            {
+                "title": "Are We in a Recession Now? Just Look at Discount Retailers",
+                "desc": "The shares of companies that operate so-called dollar stores have soared in one of the rare bright spots for markets. ",
+                "link": "https://www.washingtonpost.com/business/energy/are-we-in-a-recession-now-just-look-at-discount-retailers/2022/07/14/36ab3c58-0397-11ed-8beb-2b4e481b1500_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 10:26:15"
+            },
+            {
+                "title": "Here’s How to Go Electric. Fast",
+                "desc": "India battery swapping stations could prove to be a model for other emerging markets struggling to meet their green promises.",
+                "link": "https://www.washingtonpost.com/business/energy/heres-how-to-goelectric-fast/2022/07/14/e0d706be-03d1-11ed-8beb-2b4e481b1500_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 10:00:08"
+            },
+            {
+                "title": "Draghi Turmoil Is Bad News for Italy",
+                "desc": "His attempted resignation comes at the worst possible time for the country. But the safest path for Italy is for him to stay put.",
+                "link": "https://www.washingtonpost.com/business/draghi-turmoil-is-bad-news-for-italy/2022/07/14/44649f9e-03ae-11ed-8beb-2b4e481b1500_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 09:33:18"
+            },
+            {
+                "title": "How Sri Lanka Landed in a Crisis and What It Means: QuickTake",
+                "desc": "Months of protests in Sri Lanka over soaring inflation, shortages of food and fuel and lengthy power cuts have toppled the government in the South Asian nation and led to its first sovereign debt default since gaining independence from Britain in 1948. The political turmoil -- and sporadic outbreaks of violence -- were complicating efforts to manage the island’s foreign exchange crisis and secure more funds to keep its tourism-reliant economy running, having already been hit hard by the Covid-19",
+                "link": "https://www.washingtonpost.com/business/how-sri-lanka-landed-in-a-crisis-and-what-it-means-quicktake/2022/07/13/c59ec688-030a-11ed-8beb-2b4e481b1500_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_business",
+                "date": "Thu, 14 Jul 2022 07:53:52"
+            }
+        ]
+    },
+    "CNBC": {
+        "Business": [
+            {
+                "title": "People are paying more for clothes even as retailers like Walmart and Gap mark down prices to cut inventory",
+                "desc": "Shoppers are paying more to refresh their wardrobes, even as retailers such as Walmart and Target, mark down prices to eat away at excess inventory.",
+                "link": "https://www.cnbc.com/2022/07/13/inflation-apparel-prices-remain-high-even-as-retailers-try-to-clear-inventory.html",
+                "date": "Thu, 14 Jul 2022 11:25"
+            },
+            {
+                "title": "These are the 10 cities seeing the most price cuts for homes",
+                "desc": "More home sellers are dropping their asking prices as rising mortgage interest rates and inflation have eased competition in the market.",
+                "link": "https://www.cnbc.com/2022/07/14/these-are-the-10-cities-seeing-the-most-price-cuts-for-homes.html",
+                "date": "Thu, 14 Jul 2022 20:39"
+            },
+            {
+                "title": "General Motors will build a network of EV fast chargers at Pilot travel centers along U.S. highways",
+                "desc": "GM and EVgo will install EV fast chargers at 500 Pilot and Flying J locations along U.S. highways, enabling coast-to-coast travel. ",
+                "link": "https://www.cnbc.com/2022/07/14/gm-evgo-and-pilot-company-to-build-network-of-us-highway-ev-chargers.html",
+                "date": "Thu, 14 Jul 2022 12:38"
+            },
+            {
+                "title": "Molson Coors to return to the Super Bowl for the first time in more than 30 years",
+                "desc": "Molson Coors Beverage will return to the Super Bowl next year, making its first appearance during the big game in more than 30 years.",
+                "link": "https://www.cnbc.com/2022/07/14/molson-coors-returns-to-super-bowl-after-hiatus-of-over-30-years.html",
+                "date": "Thu, 14 Jul 2022 14:09"
+            },
+            {
+                "title": "Cramer&apos;s lightning round: I wouldn&apos;t mind buying Microchip Technology down here",
+                "desc": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+                "link": "https://www.cnbc.com/2022/07/14/cramers-lightning-round-i-wouldnt-mind-buying-microchip-technology-down-here.html",
+                "date": "Thu, 14 Jul 2022 23:45"
+            },
+            {
+                "title": "Jim Cramer says investors should eye these 5 downtrodden stocks",
+                "desc": "\"For many groups, this bear market's simply about working off the excesses of the past two years,\" the \"Mad Money\" host said.",
+                "link": "https://www.cnbc.com/2022/07/14/jim-cramer-says-investors-should-eye-these-5-downtrodden-stocks.html",
+                "date": "Thu, 14 Jul 2022 23:47"
+            },
+            {
+                "title": "Look past the ‘misery’ and remember that the market will eventually recover, Jim Cramer says",
+                "desc": "\"Losing money in markets like this one is actually part of the process,\" the \"Mad Money\" host said.",
+                "link": "https://www.cnbc.com/2022/07/14/look-past-the-misery-and-remember-that-the-market-will-eventually-recover-jim-cramer-says.html",
+                "date": "Thu, 14 Jul 2022 23:17"
+            },
+            {
+                "title": "General Motors is handling production issues on a ‘weekly basis,’ CEO Mary Barra says",
+                "desc": "\"This will go into '23. … It's going to take additional capacity,\" Barra said in an interview on \"Mad Money.\" ",
+                "link": "https://www.cnbc.com/2022/07/14/general-motors-is-handling-production-issues-on-a-weekly-basis-ceo-mary-barra-says.html",
+                "date": "Thu, 14 Jul 2022 23:01"
+            },
+            {
+                "title": "Stock futures rise as Wall Street awaits more major bank earnings ",
+                "desc": "Investors are expecting bank reports Friday from Wells Fargo and Citigroup.",
+                "link": "https://www.cnbc.com/2022/07/14/stock-market-futures-open-to-close-news.html",
+                "date": "Fri, 15 Jul 2022 00:36"
+            },
+            {
+                "title": "These are the 16 U.S. stores that Starbucks is set to close because of safety concerns",
+                "desc": "The closures come after a series of \"challenging incidents\" at these locations brought employees' and customers' safety into question.",
+                "link": "https://www.cnbc.com/2022/07/14/starbucks-is-set-to-close-these-16-us-stores-over-safety-concerns.html",
+                "date": "Thu, 14 Jul 2022 22:58"
+            },
+            {
+                "title": "Chinese fast-fashion company Shein seeks U.S. IPO as soon as 2024, report says",
+                "desc": "Shein, the Chinese fast-fashion giant, has faced criticism over how workers are treated at plants that manufacture apparel for the company.",
+                "link": "https://www.cnbc.com/2022/07/14/chinese-fast-fashion-company-shein-seeks-us-ipo-as-soon-as-2024-report.html",
+                "date": "Thu, 14 Jul 2022 20:33"
+            },
+            {
+                "title": "Average rent in Manhattan was a record $5,000 last month",
+                "desc": "The average monthly rent for a Manhattan apartment surpassed $5,000 for the first time.",
+                "link": "https://www.cnbc.com/2022/07/14/average-rent-in-manhattan-was-a-record-5000-last-month.html",
+                "date": "Thu, 14 Jul 2022 18:23"
+            },
+            {
+                "title": "Hyundai unveils new Ioniq 6 EV — an &apos;electrified streamliner&apos; with unique design",
+                "desc": "The Ioniq 6 will be Hyundai's third all-electric vehicle in the U.S. following the Kona and Ioniq 5 crossovers.",
+                "link": "https://www.cnbc.com/2022/07/13/hyundai-unveils-unique-ioniq-6-ev-an-electrified-streamliner.html",
+                "date": "Thu, 14 Jul 2022 02:53"
+            },
+            {
+                "title": "Stocks making the biggest moves premarket: JPMorgan, Taiwan Semiconductor, Ericsson and more",
+                "desc": "These are the stocks posting the largest moves before the bell.",
+                "link": "https://www.cnbc.com/2022/07/14/stocks-making-the-biggest-moves-premarket-jpmorgan-taiwan-semiconductor-ericsson-and-more.html",
+                "date": "Thu, 14 Jul 2022 12:05"
+            },
+            {
+                "title": "5 things to know before the stock market opens Thursday",
+                "desc": "Here are the most important news items that investors need to start their trading day.",
+                "link": "https://www.cnbc.com/2022/07/14/5-things-to-know-before-the-stock-market-opens-thursday-july-14.html",
+                "date": "Thu, 14 Jul 2022 13:19"
+            },
+            {
+                "title": "A second wave of Russians is fleeing Putin&apos;s regime",
+                "desc": "37-year-old Vladimir is one of a number of Russians who took time to get their affairs in order, but are now leaving the country.",
+                "link": "https://www.cnbc.com/2022/07/14/russians-flee-putins-regime-after-ukraine-war-in-second-wave-of-migration.html",
+                "date": "Thu, 14 Jul 2022 19:15"
+            },
+            {
+                "title": "‘Democracy starts at our skin’: Actor Ashley Judd speaks out against the overturning of Roe v. Wade",
+                "desc": "Ashley, specifically speaking about reproductive choices, said \"every individual should be autonomous in their reproductive choices because democracy starts at our skin.\"",
+                "link": "https://www.cnbc.com/2022/07/14/actor-ashley-judd-speaks-out-against-the-overturning-of-roe-v-wade-.html",
+                "date": "Thu, 14 Jul 2022 05:12"
+            },
+            {
+                "title": "Casino CEOs say the industry isn&apos;t yet seeing signs of recession, but is prepared for a pullback",
+                "desc": "MGM and Wynn Resorts CEOs discuss the possible recession at CNBC's Evolve Global Summit. ",
+                "link": "https://www.cnbc.com/2022/07/13/casino-ceos-say-the-industry-isnt-yet-seeing-signs-of-recession-but-is-prepared-for-a-pullback.html",
+                "date": "Thu, 14 Jul 2022 12:55"
+            }
+        ],
+        "Earnings": [
+            {
+                "title": "Morgan Stanley misses analysts’ estimates on worse-than-expected investment banking revenue",
+                "desc": "Wall Street banks are grappling with the collapse in IPOs and debt and equity issuance this year.",
+                "link": "https://www.cnbc.com/2022/07/14/morgan-stanley-ms-2q-2022-earnings-.html",
+                "date": "Thu, 14 Jul 2022 15:44"
+            },
+            {
+                "title": "World&apos;s largest chipmaker TSMC posts record profit allaying fears over semiconductor headwinds",
+                "desc": "Despite strong Q2 results, TSMC CEO CC Wei said that some of the company's capital expenditure would be \"pushed out into 2023.\"",
+                "link": "https://www.cnbc.com/2022/07/14/tsmc-q2-2022-chipmaker-posts-record-profit-and-strong-guidance.html",
+                "date": "Thu, 14 Jul 2022 14:36"
+            },
+            {
+                "title": "JPMorgan Chase earnings fell 28% after building reserves for bad loans, bank suspends buybacks",
+                "desc": "Chairman and CEO Jamie Dimon warned geopolitical tension, high inflation and waning consumer confidence could hurt the economy \"sometime down the road.\"",
+                "link": "https://www.cnbc.com/2022/07/14/jpmorgan-jpm-2q-2022-earnings.html",
+                "date": "Thu, 14 Jul 2022 15:09"
+            }
+        ],
+        "Commentary": [],
+        "Economy": [
+            {
+                "title": "Wholesale prices shoot up near-record 11.3% in June on surge in energy costs",
+                "desc": "The producer price index, a measure of the prices received at the wholesale level, increased 11.3% from a year ago.",
+                "link": "https://www.cnbc.com/2022/07/14/producer-price-index-june-2022-gain-11point3percent-on-surge-in-energy-costs.html",
+                "date": "Thu, 14 Jul 2022 13:54"
+            }
+        ],
+        "Finance": [
+            {
+                "title": "Investing on the graveyard shift: Two new ETFs look to capture the ‘night effect’",
+                "desc": "NightShares 500 and NightShares 2000 are doing something no ETF has done before.",
+                "link": "https://www.cnbc.com/2022/07/14/these-new-etfs-are-burning-the-midnight-oil-to-make-investors-money.html",
+                "date": "Fri, 15 Jul 2022 00:01"
+            },
+            {
+                "title": "Stock futures rise as Wall Street awaits more major bank earnings ",
+                "desc": "Investors are expecting bank reports Friday from Wells Fargo and Citigroup.",
+                "link": "https://www.cnbc.com/2022/07/14/stock-market-futures-open-to-close-news.html",
+                "date": "Fri, 15 Jul 2022 00:36"
+            },
+            {
+                "title": "JPMorgan CEO Dimon sums up U.S. economy in one paragraph — and it sounds bad",
+                "desc": "JPMorgan Chase CEO Jamie Dimon on Thursday summarized the state of the U.S. economy in one paragraph, and it's not all good.",
+                "link": "https://www.cnbc.com/2022/07/14/jpmorgan-ceo-dimon-sums-up-us-economy-in-one-paragraph-and-it-sounds-bad.html",
+                "date": "Thu, 14 Jul 2022 20:26"
+            },
+            {
+                "title": "Powell, Clarida cleared of wrongdoing in Fed trading controversy",
+                "desc": "Controversial trading activities from Powell and Clarida didn't break any rules or laws, the central bank's Office of Inspector General ruled Thursday.",
+                "link": "https://www.cnbc.com/2022/07/14/powell-clarida-cleared-of-wrongdoing-in-fed-trading-controversy.html",
+                "date": "Thu, 14 Jul 2022 22:38"
+            },
+            {
+                "title": "Inflation poses a &apos;clear and present danger,&apos; says Manchin: Economists weigh in on how it can hurt and help consumers",
+                "desc": "Low, stable and predictable inflation is the sweet spot for policymakers. Why is that, exactly?",
+                "link": "https://www.cnbc.com/2022/07/14/how-inflation-can-hurt-and-help-consumers.html",
+                "date": "Thu, 14 Jul 2022 18:57"
+            },
+            {
+                "title": "Dimon rips Fed stress test as &apos;terrible way to run&apos; financial system after his bank halts buybacks",
+                "desc": "JPMorgan Chase CEO Jamie Dimon didn't mince words when it came to the regulatory process that forced his bank to suspend its stock buybacks.",
+                "link": "https://www.cnbc.com/2022/07/14/jamie-dimon-rips-fed-stress-test-as-terrible-way-to-run-financial-system-.html",
+                "date": "Thu, 14 Jul 2022 22:14"
+            },
+            {
+                "title": "Stocks making the biggest moves midday: JPMorgan Chase, Goldman Sachs, Conagra Brands and more",
+                "desc": "These are the stocks posting the largest moves in midday trading. ",
+                "link": "https://www.cnbc.com/2022/07/14/stocks-making-the-biggest-moves-midday-jpmorgan-chase-goldman-sachs-conagra-brands-and-more.html",
+                "date": "Thu, 14 Jul 2022 20:13"
+            },
+            {
+                "title": "Fed Governor Waller expects 0.75 percentage point hike, but open to a larger one",
+                "desc": "Fed Governor Christopher Waller said he's willing to consider what would be the most aggressive rate hike in decades at the central bank's July meeting.",
+                "link": "https://www.cnbc.com/2022/07/14/fed-governor-waller-says-hes-open-to-larger-rate-hike-this-month-than-in-june.html",
+                "date": "Thu, 14 Jul 2022 22:48"
+            },
+            {
+                "title": "Stocks making the biggest moves premarket: JPMorgan, Taiwan Semiconductor, Ericsson and more",
+                "desc": "These are the stocks posting the largest moves before the bell.",
+                "link": "https://www.cnbc.com/2022/07/14/stocks-making-the-biggest-moves-premarket-jpmorgan-taiwan-semiconductor-ericsson-and-more.html",
+                "date": "Thu, 14 Jul 2022 12:05"
+            },
+            {
+                "title": "Morgan Stanley misses analysts’ estimates on worse-than-expected investment banking revenue",
+                "desc": "Wall Street banks are grappling with the collapse in IPOs and debt and equity issuance this year.",
+                "link": "https://www.cnbc.com/2022/07/14/morgan-stanley-ms-2q-2022-earnings-.html",
+                "date": "Thu, 14 Jul 2022 15:44"
+            },
+            {
+                "title": "JPMorgan Chase earnings fell 28% after building reserves for bad loans, bank suspends buybacks",
+                "desc": "Chairman and CEO Jamie Dimon warned geopolitical tension, high inflation and waning consumer confidence could hurt the economy \"sometime down the road.\"",
+                "link": "https://www.cnbc.com/2022/07/14/jpmorgan-jpm-2q-2022-earnings.html",
+                "date": "Thu, 14 Jul 2022 15:09"
+            },
+            {
+                "title": "Richard Branson takes a stake in Lightyear, a start-up hoping to become Europe&apos;s answer to Robinhood",
+                "desc": "Lightyear, a stock trading app based in the U.K., has raised $25 million in fresh funding to expand its presence across Europe.",
+                "link": "https://www.cnbc.com/2022/07/14/richard-branson-takes-stake-in-lightyear-europes-answer-to-robinhood.html",
+                "date": "Thu, 14 Jul 2022 07:12"
+            },
+            {
+                "title": "This ‘crypto winter’ is unlike any downturn in the history of digital currencies. Here&apos;s why",
+                "desc": "A price crash, the collapse of key crypto projects, interconnected loans and the inability to repay debt have been key features of the latest downturn. ",
+                "link": "https://www.cnbc.com/2022/07/14/why-the-2022-crypto-winter-is-unlike-previous-bear-markets.html",
+                "date": "Thu, 14 Jul 2022 09:01"
+            },
+            {
+                "title": "Embattled crypto lender Celsius files for bankruptcy protection",
+                "desc": "Celsius made headlines a month ago after freezing customer accounts, blaming \"extreme market conditions.\"",
+                "link": "https://www.cnbc.com/2022/07/13/embattled-crypto-lender-celsius-informs-state-regulators-that-its-filing-for-bankruptcy-imminently-source-says-.html",
+                "date": "Thu, 14 Jul 2022 13:10"
+            },
+            {
+                "title": "Dow falls 142 points as Wall Street weighs more aggressive Fed, disappointing bank earnings",
+                "desc": "Stocks dipped Thursday as big bank earnings kicked off with disappointing results and traders assessed the possibility of even tighter U.S. monetary policy",
+                "link": "https://www.cnbc.com/2022/07/13/stock-futures-slip-after-wednesdays-session-as-wall-street-awaits-bank-earnings.html",
+                "date": "Thu, 14 Jul 2022 21:58"
+            }
+        ],
+        "Technology": [
+            {
+                "title": "Embattled crypto lender Celsius files for bankruptcy protection",
+                "desc": "Celsius made headlines a month ago after freezing customer accounts, blaming \"extreme market conditions.\"",
+                "link": "https://www.cnbc.com/2022/07/13/embattled-crypto-lender-celsius-informs-state-regulators-that-its-filing-for-bankruptcy-imminently-source-says-.html",
+                "date": "Thu, 14 Jul 2022 13:10"
+            },
+            {
+                "title": "SEC letter to Musk questions tweet about Twitter acquisition",
+                "desc": "Twitter sued Musk in Delaware Chancery Court on Tuesday to seek to hold him to the original agreement.",
+                "link": "https://www.cnbc.com/2022/07/14/sec-asked-musk-for-more-information-about-twitter-acquisition-tweet.html",
+                "date": "Thu, 14 Jul 2022 14:53"
+            },
+            {
+                "title": "For bitcoin to bottom here&apos;s what the market wants to see — and it could mean a further 30% drop",
+                "desc": "Industry players said a better macroeconomic picture, certain trading patterns and further deleveraging could help bitcoin and the crypto market find a bottom.",
+                "link": "https://www.cnbc.com/2022/07/15/bitcoin-btc-price-bottom-heres-what-the-market-wants-to-see.html",
+                "date": "Fri, 15 Jul 2022 02:34"
+            },
+            {
+                "title": "Apple&apos;s new MacBook Air is a near-perfect update, but don&apos;t rule out the older model",
+                "desc": "Apple's new $1,199 MacBook Air, with its latest processor, the M2, launches Friday. It's the MacBook most people should buy.",
+                "link": "https://www.cnbc.com/2022/07/14/apple-macbook-air-with-m2-review-price-release.html",
+                "date": "Thu, 14 Jul 2022 13:00"
+            },
+            {
+                "title": "Pinterest shares soar after report that Elliott Management has acquired a 9% stake",
+                "desc": "Pinterest shares jumped in extended trading on Thursday after a report said Elliott Management has accumulated a stake of more than 9% in the company.",
+                "link": "https://www.cnbc.com/2022/07/14/pinterest-soars-after-report-that-elliott-management-acquired-9percent-stake.html",
+                "date": "Thu, 14 Jul 2022 22:40"
+            },
+            {
+                "title": "How two college friends launched a company that has helped save 32 terawatt hours of energy and more than $3 billion in energy bills",
+                "desc": "Alex Laskey and Dan Yates started energy efficiency company Opower, took it public, and later sold it to Oracle. They also saved consumers a lot of money.",
+                "link": "https://www.cnbc.com/2022/07/14/how-opower-sold-to-oracle-has-helped-save-3-billion-in-energy-bills.html",
+                "date": "Thu, 14 Jul 2022 20:26"
+            },
+            {
+                "title": "Amazon says more than 300 million items sold during &apos;biggest&apos; Prime Day event",
+                "desc": "Soaring inflation didn't appear to deter consumers from the event, in which home goods, consumer electronics and Amazon-branded devices were top sellers.",
+                "link": "https://www.cnbc.com/2022/07/14/amazon-prime-day-results-more-than-300-million-items-sold.html",
+                "date": "Thu, 14 Jul 2022 15:49"
+            },
+            {
+                "title": "This ‘crypto winter’ is unlike any downturn in the history of digital currencies. Here&apos;s why",
+                "desc": "A price crash, the collapse of key crypto projects, interconnected loans and the inability to repay debt have been key features of the latest downturn. ",
+                "link": "https://www.cnbc.com/2022/07/14/why-the-2022-crypto-winter-is-unlike-previous-bear-markets.html",
+                "date": "Thu, 14 Jul 2022 09:01"
+            },
+            {
+                "title": "World&apos;s largest chipmaker TSMC posts record profit allaying fears over semiconductor headwinds",
+                "desc": "Despite strong Q2 results, TSMC CEO CC Wei said that some of the company's capital expenditure would be \"pushed out into 2023.\"",
+                "link": "https://www.cnbc.com/2022/07/14/tsmc-q2-2022-chipmaker-posts-record-profit-and-strong-guidance.html",
+                "date": "Thu, 14 Jul 2022 14:36"
+            },
+            {
+                "title": "Twitter outage impacted users around the world Thursday morning",
+                "desc": "The crash-tracking site Downdetector logged more than 54,000 reports of errors with both the website and the app as of shortly after 8 a.m. Eastern Time.",
+                "link": "https://www.cnbc.com/2022/07/14/twitter-is-down.html",
+                "date": "Thu, 14 Jul 2022 13:31"
+            },
+            {
+                "title": "Richard Branson takes a stake in Lightyear, a start-up hoping to become Europe&apos;s answer to Robinhood",
+                "desc": "Lightyear, a stock trading app based in the U.K., has raised $25 million in fresh funding to expand its presence across Europe.",
+                "link": "https://www.cnbc.com/2022/07/14/richard-branson-takes-stake-in-lightyear-europes-answer-to-robinhood.html",
+                "date": "Thu, 14 Jul 2022 07:12"
+            },
+            {
+                "title": "Uber sued by more than 500 women over sexual assault claims",
+                "desc": "The filing comes nearly two weeks after the ride-hailing giant released its second safety report, saying sexual assault reported on the platform was down.",
+                "link": "https://www.cnbc.com/2022/07/13/uber-sued-by-more-than-500-women-over-sexual-assault-claims.html",
+                "date": "Thu, 14 Jul 2022 23:42"
+            },
+            {
+                "title": "New York judge freezes assets of Three Arrows Capital as crypto firm&apos;s founders remain underground",
+                "desc": "A federal judge in a New York bankruptcy court has frozen the remaining assets of crypto hedge fund Three Arrows Capital.",
+                "link": "https://www.cnbc.com/2022/07/12/new-york-judge-freezes-assets-of-three-arrows-capital.html",
+                "date": "Thu, 14 Jul 2022 10:31"
+            }
+        ],
+        "Politics": [
+            {
+                "title": "Senate could proceed on slimmer, chip-focused China competitiveness bill next week",
+                "desc": "Lawmakers hope to send chip-funding legislation to President Joe Biden before Congress goes on its annual recess next month.",
+                "link": "https://www.cnbc.com/2022/07/14/senate-to-consider-chips-china-competitiveness-bill.html",
+                "date": "Thu, 14 Jul 2022 22:42"
+            },
+            {
+                "title": "Republican attorneys general to host private retreat for corporate donors at swanky Palm Beach resort ",
+                "desc": "CNBC obtained a list of nearly 20 corporations and trade groups that RSVP'd to attend a retreat at the Breakers resort hosted by Republican attorneys general.",
+                "link": "https://www.cnbc.com/2022/07/14/republican-ag-group-holds-private-retreat-for-corporate-donors-at-swanky-palm-beach-resort-.html",
+                "date": "Thu, 14 Jul 2022 21:39"
+            },
+            {
+                "title": "Texas sues to block Biden from requiring doctors to provide abortions in medical emergencies",
+                "desc": "Three days before the Texas lawsuit, HHS Secretary Xavier Becerra told hospitals and physicians they have to provide abortions in medical emergencies.",
+                "link": "https://www.cnbc.com/2022/07/14/texas-sues-biden-administration-over-abortion-rule.html",
+                "date": "Thu, 14 Jul 2022 22:26"
+            },
+            {
+                "title": "Jan. 6 panel&apos;s next hearing will focus on Trump&apos;s hourslong failure to stop the Capitol riot",
+                "desc": "Committee members said the next hearing will focus on former President Donald Trump's \"supreme dereliction of duty\" during the invasion.",
+                "link": "https://www.cnbc.com/2022/07/14/next-january-6-committee-hearing-will-focus-on-trump-silence-during-riot.html",
+                "date": "Thu, 14 Jul 2022 22:30"
+            },
+            {
+                "title": "A second wave of Russians is fleeing Putin&apos;s regime",
+                "desc": "37-year-old Vladimir is one of a number of Russians who took time to get their affairs in order, but are now leaving the country.",
+                "link": "https://www.cnbc.com/2022/07/14/russians-flee-putins-regime-after-ukraine-war-in-second-wave-of-migration.html",
+                "date": "Thu, 14 Jul 2022 19:15"
+            },
+            {
+                "title": "Judge denies trial delay for former Trump aide Steven Bannon on Jan.6 contempt of Congress charges",
+                "desc": "Bannon's attorneys had argued that the publicity ahead of the trial raised the risk of prejudicing the jury against him.",
+                "link": "https://www.cnbc.com/2022/07/14/judge-denies-trial-delay-for-former-trump-aide-steven-bannon-on-janpoint6-contempt-of-congress-charges.html",
+                "date": "Fri, 15 Jul 2022 00:42"
+            }
+        ]
+    },
+    "WSJ": {
+        "US Business": [
+            {
+                "title": "Amazon Has Been Slashing Private-Label Selection Amid Weak Sales",
+                "desc": "Executives also have discussed exiting the business entirely to address regulatory pressure.",
+                "link": "https://www.wsj.com/articles/amazon-has-been-slashing-private-label-selection-amid-weak-sales-11657849612?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 23:00:00"
+            },
+            {
+                "title": "Twitter Suit Adds to Musk's Tesla, SpaceX Challenges",
+                "desc": "The billionaire built his reputation and fortune juggling diverse businesses—a skill that is being tested like rarely before.",
+                "link": "https://www.wsj.com/articles/twitter-lawsuit-adds-to-elon-musks-tesla-and-spacex-challenges-11657791181?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 18:31:00"
+            },
+            {
+                "title": "Elliott Sets Sights on Pinterest",
+                "desc": "Activist investor Elliott Management has taken a big stake in Pinterest, people familiar with the matter say, as the once-hot social-media company grapples with a decline in users and other challenges.",
+                "link": "https://www.wsj.com/articles/elliott-sets-sights-on-pinterest-11657828800?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 18:12:00"
+            },
+            {
+                "title": "GM and Pilot Plan National Electric-Vehicle Charging Network",
+                "desc": "The partnership would add 2,000 fast-charging stalls to 500 Pilot and Flying J locations starting next year.",
+                "link": "https://www.wsj.com/articles/gm-and-pilot-plan-national-electric-vehicle-charging-network-11657815890?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 12:24:00"
+            },
+            {
+                "title": "Baby-Formula Shortage Deepens, Defying Replenishment",
+                "desc": "Out-of-stock levels remain high in U.S. stores: “Until those shelves are full, the crisis continues.”",
+                "link": "https://www.wsj.com/articles/baby-formula-shortage-deepens-defying-replenishment-efforts-11657796400?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 07:00:00"
+            },
+            {
+                "title": "People Have Money but Feel Glum---What Does That Mean for the Economy?",
+                "desc": "A robust job market and strong household savings have shielded consumer spending so far, but it is endangered by inflation that now has some households running scared.",
+                "link": "https://www.wsj.com/articles/people-have-money-but-feel-glumwhat-does-that-mean-for-economy-11657808195?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 10:16:00"
+            },
+            {
+                "title": "Jobless Claims Reach Highest Level This Year",
+                "desc": "New applications for unemployment benefits edged higher last week to 244,000 but remained near historic lows.",
+                "link": "https://www.wsj.com/articles/u-s-jobless-claims-reach-highest-level-this-year-11657803144?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 09:10:00"
+            },
+            {
+                "title": "Producer Price Gains Accelerated in June",
+                "desc": "Key reading of producer-level inflation showed an 11.3% annual rate, the seventh straight month of double-digit gains.",
+                "link": "https://www.wsj.com/articles/producer-price-gains-accelerated-in-june-11657802409?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 11:25:00"
+            },
+            {
+                "title": "Mortgage Rates Rise Again After Recording Sharp Drop",
+                "desc": "The average rate on a 30-year fixed-rate mortgage rose to 5.51%, Freddie Mac said. That is up from 5.30% last week, when rates recorded the largest weekly decline since 2008, but below the 13-year high of 5.81% in June.",
+                "link": "https://www.wsj.com/articles/mortgage-rates-rise-again-after-recording-sharp-drop-11657807225?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 10:00:00"
+            },
+            {
+                "title": "Fed Official Says 0.75-Point Rate Rise Seems Most Likely in July",
+                "desc": "Fed governor Christopher Waller says the central bank needs to raise rates high enough to slow the economy.",
+                "link": "https://www.wsj.com/articles/fed-official-says-0-75-point-rate-rise-seems-most-likely-in-july-11657810869?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 15:15:00"
+            },
+            {
+                "title": "Emirates Slams Heathrow Airport, Says It Won't Scrap Flights",
+                "desc": "Emirates, one of the world’s biggest airlines, lashed out at Heathrow Airport’s decision earlier this week to limit the number of passengers departing the London hub and said it won’t comply with its request to cut flights to and from the airport.",
+                "link": "https://www.wsj.com/articles/emirates-blasts-london-heathrow-and-says-it-wont-scrap-flights-11657801660?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 12:11:00"
+            },
+            {
+                "title": "Amazon Proposes Settlement of EU Antitrust Charges on Seller Data",
+                "desc": "The online retailer has proposed concessions to settle two antitrust cases against it in the European Union, a fresh sign of changing strategy from big tech companies after the bloc passed a strict new digital-competition law.",
+                "link": "https://www.wsj.com/articles/amazon-proposes-settlement-of-eu-antitrust-charges-on-seller-data-11657792945?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 14:13:00"
+            },
+            {
+                "title": "From Gap to Dollar General, Retail CEOs Exit as Complications Grow",
+                "desc": "Some companies delayed succession plans in the pandemic, but others are accelerating changes in their C-suites as the industry landscape shifts.",
+                "link": "https://www.wsj.com/articles/from-gap-to-dollar-general-retail-chiefs-exit-as-challenges-grow-11657791180?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 05:33:00"
+            },
+            {
+                "title": "Engine Maker Cummins Names New CEO",
+                "desc": "Jennifer Rumsey will take on the CEO role in August as the company pursues cleaner alternatives to diesel engines.",
+                "link": "https://www.wsj.com/articles/engine-maker-cummins-names-new-ceo-as-it-looks-to-emissions-reduction-push-11657802701?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 11:38:00"
+            },
+            {
+                "title": "GM Robotaxi Unit Under California Scrutiny Over Launch Readiness",
+                "desc": "A California regulator said it is looking into claims made in an anonymous letter that the self-driving car company was preparing to launch its robotaxi service prematurely.",
+                "link": "https://www.wsj.com/articles/california-regulator-looking-into-anonymous-letter-alleging-cruises-robotaxi-service-wasnt-ready-for-launch-11657811102?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 11:05:00"
+            },
+            {
+                "title": "Molson Coors Returns to Super Bowl Ads After AB InBev Ends Exclusivity",
+                "desc": "Molson Coors will run at least one commercial during Fox’s Super Bowl broadcast in 2023, marking the first time in more than 30 years that the maker of Coors Light and Miller Lite beer has advertised in the game.",
+                "link": "https://www.wsj.com/articles/molson-coors-returns-to-super-bowl-ads-after-ab-inbev-ends-exclusivity-11657796401?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 07:00:00"
+            },
+            {
+                "title": "MacBook Air M2 Review: A Better Screen, Processor and Webcam",
+                "desc": "Apple’s latest MacBook Air has a faster chip, but the real allure is its bigger, brighter screen and improved webcam, plus the return of klutz-proof MagSafe charging.",
+                "link": "https://www.wsj.com/articles/macbook-air-m2-laptop-review-apple-11657741707?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 09:00:00"
+            },
+            {
+                "title": "Hilcorp, Exxon and Conoco Top Greenhouse Gas Emitters",
+                "desc": "New report is based on data oil-and-gas firms submitted to U.S. on emissions of carbon dioxide and methane.",
+                "link": "https://www.wsj.com/articles/hilcorp-exxon-and-conoco-top-greenhouse-gas-emitters-environmental-groups-say-11657792800?mod=pls_whats_news_us_business_f\n",
+                "date": "Thu, 14 Jul 2022 14:50:00"
+            }
+        ],
+        "Market": [
+            {
+                "title": "NFT Marketplace OpenSea to Lay Off 20% of Employees",
+                "desc": "The crash in cryptocurrency prices continues to wreak havoc on digital-asset firms.",
+                "link": "https://www.wsj.com/articles/nft-marketplace-opensea-to-lay-off-20-of-employees-11657830342?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 19:22:00"
+            },
+            {
+                "title": "Dow, S&P 500 Slip as Banks Kick Off Earnings Season",
+                "desc": "U.S. stock indexes were mixed, with the S&amp;P 500 wrapping up its fifth consecutive day of losses as earnings season kicked off with the first reports from major banks.",
+                "link": "https://www.wsj.com/articles/global-stocks-markets-dow-update-07-14-2022-11657784130?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 18:22:00"
+            },
+            {
+                "title": "Elliott Sets Sights on Pinterest",
+                "desc": "Activist investor Elliott Management has taken a big stake in Pinterest, people familiar with the matter say, as the once-hot social-media company grapples with a decline in users and other challenges.",
+                "link": "https://www.wsj.com/articles/elliott-sets-sights-on-pinterest-11657828800?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 18:12:00"
+            },
+            {
+                "title": "Euro Slips Below Dollar as Europe's Economic Fortunes Slump",
+                "desc": "The euro selloff has intensified as investors gird for a Russian gas cutoff that many fear will drive the region into a recession. But unlike the last time the common currency was this weak 20 years ago, nobody is coming to its rescue.",
+                "link": "https://www.wsj.com/articles/euros-slide-below-dollar-reflects-europes-sinking-economic-fortunes-11657805525?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 17:46:00"
+            },
+            {
+                "title": "Single-Stock ETFs to Allow U.S. Investors to Make Big Bets on Popular Stocks",
+                "desc": "AXS Investments plans to launch a set of exchange-traded funds tied to shares of specific companies, such as Nike or Pfizer, that are designed to amplify their daily performance or the inverse of that performance.",
+                "link": "https://www.wsj.com/articles/single-stock-etfs-to-allow-u-s-investors-to-make-big-bets-on-popular-stocks-11657800001?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 17:07:00"
+            },
+            {
+                "title": "JPMorgan Chase Sees Economic Turmoil Brewing, but Few Signs of Recession So Far",
+                "desc": "Second-quarter profit at JPMorgan fell 28% even as the nation’s largest bank said it is seeing few signs a recession is imminent, underscoring the uncertainty looming over markets and the economy.",
+                "link": "https://www.wsj.com/articles/jpmorgans-profit-drops-28-11657797289?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 16:38:00"
+            },
+            {
+                "title": "Morgan Stanley Profit Falls 29%",
+                "desc": "The investment bank’s second-quarter profit fell short of expectations, reflecting a drop in corporate deal making.",
+                "link": "https://www.wsj.com/articles/morgan-stanley-profit-falls-29-11657799679?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 16:35:00"
+            },
+            {
+                "title": "Bank of America Fined $225 Million for Mishandling Unemployment Benefits",
+                "desc": "Federal regulators said the bank also must compensate people whose access to funds during the pandemic was denied or delayed.",
+                "link": "https://www.wsj.com/articles/bank-of-america-fined-225-million-for-mishandling-pandemic-unemployment-benefits-11657828634?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 15:57:00"
+            },
+            {
+                "title": "JPMorgan Chase's Defensive Moves Aren't the Whole Story",
+                "desc": "A reserve build and higher capital requirements obscure some solid underlying business momentum.",
+                "link": "https://www.wsj.com/articles/jpmorgan-chases-defensive-moves-arent-the-whole-story-11657816586?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 12:36:00"
+            },
+            {
+                "title": "Parity Is Unlikely to Be the Bottom for the Euro",
+                "desc": "Parity is an arbitrary but potent symbolic target. There is a chance that many hedges, options contracts and stop-loss orders have been structured to be triggered around this level on the assumption that it will act as a floor. In today’s conditions, such expectations could turn out to be painful.",
+                "link": "https://www.wsj.com/articles/parity-is-unlikely-to-be-the-bottom-for-the-euro-11657810219?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 10:50:00"
+            },
+            {
+                "title": "Frustrated Home Buyers in China Threaten to Stop Paying Mortgages",
+                "desc": "China’s property market has entered a new stage of turmoil after a year-long slide in sales, stalled projects and mounting real-estate developer defaults.",
+                "link": "https://www.wsj.com/articles/china-property-market-shudders-as-buyers-threaten-to-stop-mortgage-payments-11657810077?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 10:48:00"
+            },
+            {
+                "title": "Japan Inc. Finally Shows Shareholders the Money",
+                "desc": "It’s tough times for stocks everywhere. But notoriously tight-fisted Japanese companies are starting to pay out more—some consolation in a bad market.",
+                "link": "https://www.wsj.com/articles/japan-inc-finally-shows-shareholders-the-money-11657808589?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 10:23:00"
+            },
+            {
+                "title": "Global Natural-Gas Markets Are Getting Scared",
+                "desc": "LNG spot market prices have shot up in recent weeks, but could have much further to go if Russia closes its pipeline to Germany.",
+                "link": "https://www.wsj.com/articles/global-natural-gas-markets-are-getting-scared-11657802549?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 08:42:00"
+            },
+            {
+                "title": "The Ultimate Revenue Driving Machine",
+                "desc": "BMWs have heated seats and steering wheels, but only if your subscription is up to date.",
+                "link": "https://www.wsj.com/articles/the-ultimate-revenue-driving-machine-11657796580?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 07:03:00"
+            },
+            {
+                "title": "Pharma Is Place to Hide During Recession",
+                "desc": "Drug stocks may continue to outperform the broader market as investors flock to an industry known for weathering recessions relatively well.",
+                "link": "https://www.wsj.com/articles/pharma-is-place-to-hide-during-recession-11657749897?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 06:35:00"
+            },
+            {
+                "title": "Big-Name Investors Pour Billions Into Clean Hydrogen Projects",
+                "desc": "The newest wager is on a Nebraska startup trying to upend the burgeoning industry of clean hydrogen with a process that uses natural gas but traps carbon by producing an ingredient vital for everyday products like car tires.",
+                "link": "https://www.wsj.com/articles/big-name-investors-pour-billions-into-clean-hydrogen-projects-11657792800?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 06:00:00"
+            },
+            {
+                "title": "As Volatility Roils Bonds and Currencies, Stocks Appear Stable",
+                "desc": "The bond and foreign-exchange markets are undergoing their sharpest bouts of volatility since the onset of the Covid-19 pandemic. The stock market might have some catching up to do.",
+                "link": "https://www.wsj.com/articles/as-volatility-roils-bonds-and-currencies-stocks-appear-stable-11657791000?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 05:30:00"
+            },
+            {
+                "title": "IRS Gives Wealthy Families More Time to Shelter Assets from Estate Tax",
+                "desc": "A surviving spouse will now have up to five years to claim larger estate-tax exemption",
+                "link": "https://www.wsj.com/articles/irs-gives-wealthy-families-more-time-to-shelter-assets-from-estate-tax-11657771260?mod=rss_markets_main\n",
+                "date": "Thu, 14 Jul 2022 00:01:00"
+            }
+        ],
+        "Tech": [
+            {
+                "title": "Amazon Has Been Slashing Private-Label Selection Amid Weak Sales",
+                "desc": "Executives also have discussed exiting the business entirely to address regulatory pressure.",
+                "link": "https://www.wsj.com/articles/amazon-has-been-slashing-private-label-selection-amid-weak-sales-11657849612?mod=rss_Technology\n",
+                "date": "Thu, 14 Jul 2022 23:00:00"
+            },
+            {
+                "title": "Amazon Proposes Settlement of EU Antitrust Charges on Seller Data",
+                "desc": "The online retailer has proposed concessions to settle two antitrust cases against it in the European Union, a fresh sign of changing strategy from big tech companies after the bloc passed a strict new digital-competition law.",
+                "link": "https://www.wsj.com/articles/amazon-proposes-settlement-of-eu-antitrust-charges-on-seller-data-11657792945?mod=rss_Technology\n",
+                "date": "Thu, 14 Jul 2022 14:13:00"
+            },
+            {
+                "title": "Elliott Sets Sights on Pinterest",
+                "desc": "Activist investor Elliott Management has taken a big stake in Pinterest, people familiar with the matter say, as the once-hot social-media company grapples with a decline in users and other challenges.",
+                "link": "https://www.wsj.com/articles/elliott-sets-sights-on-pinterest-11657828800?mod=rss_Technology\n",
+                "date": "Thu, 14 Jul 2022 18:12:00"
+            },
+            {
+                "title": "SEC Questioned Elon Musk Tweet Over Twitter Deal",
+                "desc": "The billionaire is facing scrutiny from securities regulators over whether he promptly disclosed his intention to end his $44 billion deal to buy Twitter after a disagreement over spam-account data.",
+                "link": "https://www.wsj.com/articles/sec-questioned-elon-musk-tweet-over-twitter-deal-11657815619?mod=rss_Technology\n",
+                "date": "Thu, 14 Jul 2022 12:20:00"
+            },
+            {
+                "title": "Alibaba Executives Called In by China Authorities Amid Historic Data Heist",
+                "desc": "Following the theft of sensitive Shanghai police data, authorities call in Alibaba executives as the company investigates how one of history’s largest data heists was allowed to happen.",
+                "link": "https://www.wsj.com/articles/alibaba-executives-called-in-by-china-authorities-as-it-investigates-historic-data-heist-11657812800?mod=rss_Technology\n",
+                "date": "Thu, 14 Jul 2022 11:33:00"
+            },
+            {
+                "title": "MacBook Air M2 Review: A Better Screen, Processor and Webcam",
+                "desc": "Apple’s latest MacBook Air has a faster chip, but the real allure is its bigger, brighter screen and improved webcam, plus the return of klutz-proof MagSafe charging.",
+                "link": "https://www.wsj.com/articles/macbook-air-m2-laptop-review-apple-11657741707?mod=rss_Technology\n",
+                "date": "Thu, 14 Jul 2022 09:00:00"
+            },
+            {
+                "title": "Ericsson Boosted by Demand for 5G Equipment but Warns of Rising Costs",
+                "desc": "The Swedish telecom-equipment giant said its sales and profit rose in the second quarter as wireless carriers snapped up its 5G gear, but warned of higher costs stemming from geopolitical tensions and inflation.",
+                "link": "https://www.wsj.com/articles/ericsson-boosted-by-demand-for-5g-equipment-but-warns-of-rising-costs-11657796212?mod=rss_Technology\n",
+                "date": "Thu, 14 Jul 2022 06:56:00"
+            },
+            {
+                "title": "Cyber Bug in Log4j to Persist as 'Endemic' Risk for Years to Come, U.S. Board Finds",
+                "desc": "The flaw in the widely used internet software has so far been less harmful than expected but significant risk remains, the Cyber Safety Review Board says.",
+                "link": "https://www.wsj.com/articles/major-cyber-bug-in-log4j-to-persist-as-endemic-risk-for-years-to-come-u-s-government-board-finds-11657796400?mod=rss_Technology\n",
+                "date": "Thu, 14 Jul 2022 07:00:00"
+            },
+            {
+                "title": "Deutsche Telekom Sells Stake in Tower Business for $6.6 Billion",
+                "desc": "The German telecoms company said it had agreed to sell a 51% stake in its tower unit in Germany and Austria to Brookfield Infrastructure Partners and DigitalBridge.",
+                "link": "https://www.wsj.com/articles/deutsche-telekom-sells-stake-in-tower-business-for-6-6-billion-11657798446?mod=rss_Technology\n",
+                "date": "Thu, 14 Jul 2022 07:34:00"
+            }
+        ]
+    },
+    "FT": {
+        "Global Econ": [
+            {
+                "title": "China narrowly misses second-quarter contraction as zero-Covid batters economy",
+                "tag": "Chinese economy",
+                "description": "Gross domestic product expands 0.4% year on year in second quarter, imperilling annual growth target",
+                "link": "/content/bb302ef4-001a-478f-ac61-31cdc972cc8e"
+            },
+            {
+                "title": "FirstFT: Sri Lankan president offers his resignation ",
+                "tag": "Sri Lanka",
+                "description": "Plus, Draghi looks to quit as Italy’s prime minister and Celsius Network reveals $1.2bn shortfall in bankruptcy filing",
+                "link": "/content/4a7b34d2-406e-4443-8d55-be0b33c03462"
+            },
+            {
+                "title": "Stocks and oil under pressure as markets contemplate US rate rises",
+                "tag": "Capital markets",
+                "description": "Strong dollar pushes down the euro and Japanese yen",
+                "link": "/content/6311d325-9ac7-4cc8-979f-6e5f8847e167"
+            },
+            {
+                "title": "Senior Fed governor open to 1 percentage point rate rise",
+                "tag": "US interest rates",
+                "description": "Christopher Waller would support ‘larger hike’ at July meeting if ‘incoming data’ warrants move",
+                "link": "/content/b2c237db-c56d-4530-81d5-856c6477dc13"
+            },
+            {
+                "title": "We should be worrying about debt as well as inflation",
+                "tag": "Gillian Tett",
+                "description": "Pundits have long ignored the issue because declining interest rates kept borrowers’ servicing costs low",
+                "link": "/content/98a1e4c3-1a4c-4fe1-b55e-56a669a54b81"
+            },
+            {
+                "title": "US recession is a smaller danger than long-term inflation",
+                "tag": "The editorial board",
+                "description": "The Fed needs to hold its nerve on tightening further",
+                "link": "/content/db0a2535-7292-4c84-9015-0d9c4af67713"
+            },
+            {
+                "title": "Pakistan says IMF deal offers path out of economic crisis",
+                "tag": "Pakistan",
+                "description": "Prime minister Shehbaz Sharif hails staff-level agreement that opens way to release $1.2bn",
+                "link": "/content/cf0b136f-dfef-4c3d-a949-b797a9958e81"
+            },
+            {
+                "title": "Motor insurers hit by ‘extraordinary inflationary pressures’",
+                "tag": "Sabre Insurance Group",
+                "description": "Sabre’s shares plunge as rising costs dent profits, knocking peers including Admiral and Direct Line",
+                "link": "/content/7fc8aa95-07b5-4b23-9e5b-f0e75886e2bb"
+            },
+            {
+                "title": "Rising food costs force England’s school caterers to cut meal standards ",
+                "tag": "UK schools",
+                "description": "Nearly half of providers predict further falls in quality of ingredients, as health experts warn of dangers to children’s nutrition",
+                "link": "/content/9052f2a6-b115-4e3b-ac6f-bbda990302af"
+            },
+            {
+                "title": "FirstFT: Pressure grows on Fed to abandon guidance again",
+                "tag": "FirstFT",
+                "description": "Plus, crypto lender Celsius files for bankruptcy and Netflix teams up with Microsoft to offer new service",
+                "link": "/content/00ced180-c462-4a4b-8682-aa749444fe5c"
+            },
+            {
+                "title": "Why a price cap on Russian oil is a bad idea",
+                "tag": "Martin Sandbu",
+                "description": "US proposal would expose the world’s dependence and enhance Putin’s ability to threaten the west",
+                "link": "/content/e4bd3554-2047-4614-8926-d0b9b674f32c"
+            },
+            {
+                "title": "Will rising interest rates actually lower prices?",
+                "tag": "FT News Briefing podcast",
+                "description": " A corporate feud over low-earth orbit satellites has pitted the west against China",
+                "link": "/content/bc22d5ea-55ee-4c07-a967-b946a6744765"
+            },
+            {
+                "title": "Brussels lifts eurozone inflation forecast to 7.6% as energy crisis takes toll",
+                "tag": "Eurozone inflation",
+                "description": "Forecasts for 2022 revised up from 6.1% as GDP growth revised down to 2.6%  ",
+                "link": "/content/a97c3d4a-faf7-4c00-bff1-bf7264d6522a"
+            },
+            {
+                "title": "Ericsson shares fall as inflation and supply woes weigh on margins",
+                "tag": "Ericsson",
+                "description": "Swedish telecoms equipment maker misses second-quarter expectations",
+                "link": "/content/c6c3583f-90ba-443b-afdf-f8513028b503"
+            },
+            {
+                "title": "High inflation doesn’t scare the market anymore",
+                "tag": "Robert Armstrong",
+                "description": "And is the great moderation really over? ",
+                "link": "/content/3cc28208-05dd-42c8-a569-d5cb23fb24b4"
+            },
+            {
+                "title": "Australia’s near-record low unemployment stokes staffing crisis",
+                "tag": "Australia",
+                "description": "Labor government discusses work visas with Pacific Island leaders to alleviate worker shortage",
+                "link": "/content/0292ff07-ff1c-47ff-8236-47b2109d4132"
+            },
+            {
+                "title": "Soaring US inflation puts pressure on Fed to abandon guidance again",
+                "tag": "Federal Reserve",
+                "description": "Some traders are betting central bank will opt for 1 percentage point increase despite telegraphing a smaller rise",
+                "link": "/content/fabe5b47-afea-4557-adac-ce4ddeb4c206"
+            },
+            {
+                "title": "Liquidity is a bigger worry for investor returns than growth",
+                "tag": "Bhanu Baweja",
+                "description": "There is nothing automatic about high inflation or tighter policy catalysing a deep recession",
+                "link": "/content/c11cee9e-7a09-4bb6-bde0-87f5392e88c7"
+            },
+            {
+                "title": "China second-quarter GDP: five things to watch",
+                "tag": "Chinese economy",
+                "description": "Friday data release will help put a price tag on the cost of Xi Jinping’s pursuit of ‘zero-Covid’",
+                "link": "/content/e775f1e6-010d-4089-9c03-69ff86e385ac"
+            },
+            {
+                "title": "Ukraine and Russia making progress on grain talks, says UN",
+                "tag": "Food security",
+                "description": "Guterres hopeful deal can be reached as soon as next week on passage of millions of tonnes of crops trapped by blockade ",
+                "link": "/content/13ee2c98-74f0-4bed-b78f-36c5070a5083"
+            },
+            {
+                "title": "US inflation hits 9.1% as pressure grows on Federal Reserve",
+                "tag": "US Inflation",
+                "description": "Markets price in higher chance of 1% rate rise this month after bigger-than-expected jump in prices",
+                "link": "/content/b15ee858-f9e4-492e-8f4d-ebe919c12f9a"
+            },
+            {
+                "title": "Canada surprises with 100bp interest rate rise",
+                "tag": "Global inflation",
+                "description": "Aggressive increase is largest since 1998 and comes amid signs inflation could persist",
+                "link": "/content/804879da-b68b-4424-ab6c-1d3d4c89cff4"
+            },
+            {
+                "title": "UK steelmakers outraged at plan to ease anti-dumping measures on China",
+                "tag": "UK trade",
+                "description": "Trade Remedies Authority has proposed ending restrictions on import of ‘rebar’, used to strengthen concrete",
+                "link": "/content/59f9d0a6-229f-4b70-99be-9df4be202b99"
+            },
+            {
+                "title": "Biden feels the heat as US inflation hits 40-year high",
+                "tag": "Disrupted Times",
+                "description": "IMF to lower global growth forecast, UK economy expands, euro hits parity with the dollar",
+                "link": "/content/ecc33d16-04ca-4c60-b1cc-229ba29d4fab"
+            },
+            {
+                "title": "Sri Lanka’s woes are a warning to other developing nations",
+                "tag": "The editorial board",
+                "description": "China’s historic reluctance to engage with other creditors will be decisive factor",
+                "link": "/content/08c6d823-9d2b-4e63-b5b9-d343121f7648"
+            }
+        ],
+        "US Econ": [
+            {
+                "title": "Stocks and oil under pressure as markets contemplate US rate rises",
+                "tag": "Capital markets",
+                "description": "Strong dollar pushes down the euro and Japanese yen",
+                "link": "/content/6311d325-9ac7-4cc8-979f-6e5f8847e167"
+            },
+            {
+                "title": "Senior Fed governor open to 1 percentage point rate rise",
+                "tag": "US interest rates",
+                "description": "Christopher Waller would support ‘larger hike’ at July meeting if ‘incoming data’ warrants move",
+                "link": "/content/b2c237db-c56d-4530-81d5-856c6477dc13"
+            },
+            {
+                "title": "We should be worrying about debt as well as inflation",
+                "tag": "Gillian Tett",
+                "description": "Pundits have long ignored the issue because declining interest rates kept borrowers’ servicing costs low",
+                "link": "/content/98a1e4c3-1a4c-4fe1-b55e-56a669a54b81"
+            },
+            {
+                "title": "US recession is a smaller danger than long-term inflation",
+                "tag": "The editorial board",
+                "description": "The Fed needs to hold its nerve on tightening further",
+                "link": "/content/db0a2535-7292-4c84-9015-0d9c4af67713"
+            },
+            {
+                "title": "Will rising interest rates actually lower prices?",
+                "tag": "FT News Briefing podcast",
+                "description": " A corporate feud over low-earth orbit satellites has pitted the west against China",
+                "link": "/content/bc22d5ea-55ee-4c07-a967-b946a6744765"
+            },
+            {
+                "title": "High inflation doesn’t scare the market anymore",
+                "tag": "Robert Armstrong",
+                "description": "And is the great moderation really over? ",
+                "link": "/content/3cc28208-05dd-42c8-a569-d5cb23fb24b4"
+            },
+            {
+                "title": "Soaring US inflation puts pressure on Fed to abandon guidance again",
+                "tag": "Federal Reserve",
+                "description": "Some traders are betting central bank will opt for 1 percentage point increase despite telegraphing a smaller rise",
+                "link": "/content/fabe5b47-afea-4557-adac-ce4ddeb4c206"
+            },
+            {
+                "title": "US inflation hits 9.1% as pressure grows on Federal Reserve",
+                "tag": "US Inflation",
+                "description": "Markets price in higher chance of 1% rate rise this month after bigger-than-expected jump in prices",
+                "link": "/content/b15ee858-f9e4-492e-8f4d-ebe919c12f9a"
+            },
+            {
+                "title": "Biden feels the heat as US inflation hits 40-year high",
+                "tag": "Disrupted Times",
+                "description": "IMF to lower global growth forecast, UK economy expands, euro hits parity with the dollar",
+                "link": "/content/ecc33d16-04ca-4c60-b1cc-229ba29d4fab"
+            },
+            {
+                "title": "US inflation surge signals tough times ahead ",
+                "tag": "Mohamed El-Erian",
+                "description": "The damage from the sharp rise in prices has already been unleashed",
+                "link": "/content/f8185c63-72c0-479d-80e9-e9c0bf8eb8c5"
+            },
+            {
+                "title": "Hear that? That’s the sound of 100 basis points",
+                "tag": "US interest rates",
+                "description": "The biggest Fed hike since Volcker is being priced as a possibility in the bond market  ",
+                "link": "/content/46ad446e-4658-4874-96c6-66fe22be409e"
+            },
+            {
+                "title": "Will recession kill inflation?",
+                "tag": "Ethan Wu",
+                "description": "And more on crypto bailouts",
+                "link": "/content/289f8abd-3f7e-4852-8274-1357af83c5f6"
+            },
+            {
+                "title": "Fake US inflation report circulates a day before data release",
+                "tag": "US Inflation",
+                "description": "Bureau of Labor Statistics discredits false document ahead of hotly-anticipated update on prices",
+                "link": "/content/7dc56e29-e1a8-4611-b482-2f3c674c1d2e"
+            },
+            {
+                "title": "Inflation is a political challenge as well as an economic one",
+                "tag": "Martin Wolf",
+                "description": "People care about price rises and the damage that they can do to real incomes",
+                "link": "/content/2022df1d-57c5-44a4-93e6-73f5f5274ca8"
+            },
+            {
+                "title": "The case for T-bills and patience",
+                "tag": "Robert Armstrong",
+                "description": "And why a high-employment recession makes no sense",
+                "link": "/content/4ea1dc1d-9bfb-4a8c-90a3-6f76aedc0b8c"
+            },
+            {
+                "title": "Wall Street recession fears stoked by patchy US economic data",
+                "tag": "",
+                "description": "Markets expect the Fed to continue raising rates this year before changing course in 2023",
+                "link": "/content/51037dc0-2426-41b9-939a-ad6c8e3ea19a"
+            },
+            {
+                "title": "Did central bank balance sheets really need to get so big?",
+                "tag": "The QE retreat",
+                "description": "Deciphering the mixed signals of monetary policy",
+                "link": "/content/d86f459d-8516-43df-a251-39427c0ad29b"
+            },
+            {
+                "title": "Commerce secretary warns cutting China tariffs will not significantly ease inflation",
+                "tag": "US Inflation",
+                "description": "Gina Raimondo backs Joe Biden but admits move will have minimal effect on price rises",
+                "link": "/content/3df28a89-1f5e-4d4b-b4fa-8702aa8abfc0"
+            },
+            {
+                "title": "The mystery of how quantitative tightening will affect markets",
+                "tag": "US quantitative easing",
+                "description": "Central banks are starting to shrink their balance sheets, but fund managers say they have no clue as to how QT will play out",
+                "link": "/content/435a5e35-bf30-4518-a4fc-a6d5c2d66076"
+            },
+            {
+                "title": "Americans stay away from great outdoors amid rising petrol costs",
+                "tag": "Travel & leisure industry",
+                "description": "National parks record fall in visitor numbers as car travel becomes more expensive",
+                "link": "/content/dfd88947-876b-4caf-9fde-c0a51eff30aa"
+            },
+            {
+                "title": "Hot US jobs numbers cannot last much longer, economists warn",
+                "tag": "US employment",
+                "description": "Some of the froth must come off the labour market as the Fed readies another jumbo rate rise",
+                "link": "/content/1850769f-b397-4082-80d0-72eeee7f7997"
+            },
+            {
+                "title": "US government debt under pressure after strong employment data",
+                "tag": "US Treasury bonds",
+                "description": "Wall Street struggles for direction while European shares edge higher",
+                "link": "/content/48c7041f-1fa4-42ee-99f6-4a5955668fb6"
+            },
+            {
+                "title": "US jobs market powers ahead",
+                "tag": "Disrupted Times",
+                "description": "Germany rations energy, UK in limbo, long Covid and the labour force",
+                "link": "/content/5eea5739-a1c4-43ce-b0b0-e2188e54a8b2"
+            },
+            {
+                "title": "US economy added 372,000 jobs in June amid red-hot labour demand",
+                "tag": "US employment",
+                "description": "Non-farm payrolls defied expectations for sharper slowdown while the jobless rate held steady at 3.6%",
+                "link": "/content/fb584dce-a910-4579-adc2-6421896dc905"
+            },
+            {
+                "title": "‘Fed’s credibility’ strained as inflation rages, senior official says",
+                "tag": "Federal Reserve",
+                "description": "Comments by James Bullard come as he and Christopher Waller support another 0.75 percentage point rate rise",
+                "link": "/content/5d138b4c-ffdf-4e67-941c-34175aa8904f"
+            }
+        ],
+        "Companies": [
+            {
+                "title": "Amazon plans further 4,000 UK jobs despite global slowdown",
+                "tag": "Amazon",
+                "description": "Ecommerce group to become one of Britain’s biggest private employers but new hire numbers are sharply down on past two years",
+                "link": "/content/372a363a-39de-4dea-9113-1a062b8d0ce4"
+            },
+            {
+                "title": "Celsius Network reveals $1.2bn shortfall in bankruptcy filing",
+                "tag": "Celsius Network Ltd",
+                "description": "Crypto lender’s founder admits mistakes as digital asset group seeks court protection",
+                "link": "/content/0babff4f-2212-41a4-844e-bbd09b1ef245"
+            },
+            {
+                "title": "SEC scrutinises Musk tweet over $44bn Twitter takeover bid",
+                "tag": "Elon Musk",
+                "description": "US securities regulator asks why Tesla chief did not notify investors before saying deal ‘cannot move forward’ over bots",
+                "link": "/content/1e30a8d6-1793-466a-af59-d661ead04721"
+            },
+            {
+                "title": "Pret A Manger boss receives remuneration package of over £4mn ",
+                "tag": "Pret A Manger Ltd",
+                "description": "Sandwich chain reports receiving aid of almost £100mn from UK government during pandemic ",
+                "link": "/content/7168db37-ed27-4f99-8cd5-f11c20b6d750"
+            },
+            {
+                "title": "Aston Martin to raise more than £500mn through Saudi fund and rights issue",
+                "tag": "Aston Martin Lagonda",
+                "description": "Luxury carmaker’s board to vote on proposal to bring in one of the world’s largest investors as a shareholder ",
+                "link": "/content/1ec233e4-02a7-4824-9923-266cbd55fead"
+            },
+            {
+                "title": "Morgan Stanley profits hit by investment banking slowdown",
+                "tag": "Morgan Stanley",
+                "description": "Wall Street lender expects to pay $200mn penalty over probe into misuse of personal devices",
+                "link": "/content/7b2d6cf8-c6e0-423b-b0e9-5681340da4d1"
+            },
+            {
+                "title": "Chinese drone maker lobbies to defeat US national security ban",
+                "tag": "Drones",
+                "description": "DJI’s share of commercial market has fallen after Donald Trump placed it on ‘entities list’",
+                "link": "/content/8636c764-40ea-4544-8b1f-0b2f1bb417a8"
+            },
+            {
+                "title": "Twitter may beat Elon Musk in court and still lose",
+                "tag": "John Thornhill",
+                "description": "The Delaware trial is sure to be a spectacle but outsmarting the world’s richest man will be a challenge",
+                "link": "/content/6d4db881-0442-4b62-b809-70c9bad9918d"
+            },
+            {
+                "title": "‘A nerdy group of misfits’: the US company behind Ukraine’s ‘kamikaze’ drones",
+                "tag": "AeroVironment Inc",
+                "description": "Defence industry minnow AeroVironment has gained prominence after success of its Switchblade system",
+                "link": "/content/70d7fb39-4dbd-4b65-8b49-6969faf2d184"
+            },
+            {
+                "title": "Why Pfizer’s ‘living with Covid’ pill is not a miracle drug",
+                "tag": "Pfizer Inc",
+                "description": "Antiviral treatment Paxlovid is being widely prescribed despite questions about its effectiveness",
+                "link": "/content/671e7315-cd1f-47f2-80c9-c4dbfff030c9"
+            },
+            {
+                "title": "Pre-emption changes should force modernisation for London",
+                "tag": "Helen Thomas",
+                "description": "Aims of capital market review rely on a more fundamental overhaul and digitisation of market infrastructure",
+                "link": "/content/8505475a-c32a-46dd-a643-64e284fdc96c"
+            },
+            {
+                "title": "Hydrogen",
+                "tag": "Special Report",
+                "description": "High gas prices following Russia’s invasion of Ukraine widen a split over how best to produce low-carbon hydrogen; economic conditions put European hydrogen projects, and targets, at risk; proponents of fuel cells promote their favoured zero-carbon energy source",
+                "link": "/reports/hydrogen"
+            },
+            {
+                "title": "Case for ‘blue’ hydrogen suffers in Europe as war rages on",
+                "tag": "Hydrogen",
+                "description": "Reliance on natural gas gives its green counterpart the edge but, in the US, the ‘real money’ is still betting on blue",
+                "link": "/content/3bc2d659-527f-49f2-a8f9-ba9263147dbc"
+            },
+            {
+                "title": "Mining mogul Andrew Forrest puts money where mouth is on green hydrogen",
+                "tag": "Hydrogen",
+                "description": "Billionaire boss wants to transform Fortescue Metals Group into a clean energy leader and pours scorn on Elon Musk’s green credentials",
+                "link": "/content/d5406ff9-32cb-4d45-8285-7d38f0d867f2"
+            },
+            {
+                "title": "Steelmakers explore hydrogen to power energy-hungry processes ",
+                "tag": "Hydrogen",
+                "description": "Bottlenecks exist in the supply of equipment to create the green fuel, with further uncertainty over its cost",
+                "link": "/content/f2cde09c-caf5-460f-8c7f-41c79cecd6a3"
+            },
+            {
+                "title": "EU clean energy targets risk being missed as rates rise",
+                "tag": "Hydrogen",
+                "description": "Developers of large hydrogen projects need clarity on subsidies and a pipeline of committed customers",
+                "link": "/content/16a03d56-a84f-4e3b-a045-f4a9f8e2bfc0"
+            },
+            {
+                "title": "Fuel cells show greatest promise in aviation",
+                "tag": "Hydrogen",
+                "description": "Aerospace companies are working on parallel projects to burn hydrogen in modified jet engines",
+                "link": "/content/1e2c72fd-0bf0-4434-b9c2-b6d6a07a3e00"
+            },
+            {
+                "title": "Alicia Eastman: Green hydrogen will be price-competitive by 2030",
+                "tag": "Hydrogen",
+                "description": "Coastal sites are key to creating green energy that can be exported around the world, says InterContinental Energy president",
+                "link": "/content/b5ee15fa-b9d6-4a19-93c2-f19bdcb9f379"
+            },
+            {
+                "title": "Where do Tory candidates stand on UK’s net zero pledge?",
+                "tag": "UK politics & policy",
+                "description": "Outgoing PM Boris Johnson had talked up the need to switch to ‘clean, green energy’",
+                "link": "/content/7985a47e-2eb1-4d3b-8ad3-ac35c511e10c"
+            },
+            {
+                "title": "Hong Kong’s Covid restrictions throw feng shui masters off balance",
+                "tag": "Hong Kong economy",
+                "description": "Practitioners blame city’s virus controls and shift to homeworking for sharp decline in revenue",
+                "link": "/content/181b1876-ddf0-4f1c-b2a8-40116bbcb9d3"
+            },
+            {
+                "title": "‘Red alert’ issued on global child health after drop in vaccinations ",
+                "tag": "Disease control and prevention",
+                "description": "WHO and Unicef point to sustained fall in immunisations against diseases such as diphtheria, polio and measles",
+                "link": "/content/8d2e800a-1495-4bd1-9721-3ef656d25c79"
+            },
+            {
+                "title": "UK train drivers to strike in first mass walkout in 27 years",
+                "tag": "UK labour disputes",
+                "description": "On top of co-ordinated action by Aslef on July 30, RMT union adds two further rail strike dates in August",
+                "link": "/content/56447424-60d0-4dc2-af8c-a8e14c9327db"
+            },
+            {
+                "title": "UK judge halts trial of two defendants in Saudi bribery case",
+                "tag": "Law",
+                "description": "SFO alleges illicit payments were channelled to Riyadh officials to secure UK defence contracts",
+                "link": "/content/15219d46-58f1-4d3b-918d-ee198d7a6f81"
+            },
+            {
+                "title": "Oil prices drop below $95 for first time since invasion of Ukraine ",
+                "tag": "Oil",
+                "description": "Demand worries dominate as commodity markets bet on economic contraction",
+                "link": "/content/424fd3ff-28e2-448e-ab38-535a282526be"
+            },
+            {
+                "title": "Britain’s power grid provides electricity lifeline to Europe",
+                "tag": "EU energy",
+                "description": "System is net exporter for first time since 2017 after record French nuclear shutdowns",
+                "link": "/content/517f2786-2acf-4d28-9dc7-fc5db835479e"
+            },
+            {
+                "title": "Internet safety on hold",
+                "tag": "#techFT",
+                "description": "Chinese VC firms struggle, Microsoft to power Netflix ads, the $190,000 TV",
+                "link": "/content/c1140294-4c73-4aac-8fc6-507ef66edc50"
+            },
+            {
+                "title": "Crypto bankruptcies: pressure builds on US courts to investigate circumstances of blow-ups",
+                "tag": "Bankruptcy",
+                "description": "All sorts of interesting questions now arise from failures of lenders",
+                "link": "/content/b271b7e2-a97c-40cc-889b-67d9a3157b3e"
+            },
+            {
+                "title": "Lenders take control of Vue cinema chain in £1bn restructuring ",
+                "tag": "Vue Entertainment Ltd",
+                "description": "US asset manager Barings and hedge fund Farallon Capital lead on rescue deal",
+                "link": "/content/cbb2dd27-9631-4a53-8d82-467befae9cd5"
+            },
+            {
+                "title": "JPMorgan: rebound in consumer lending fails to allay recession fears",
+                "tag": "JPMorgan Chase & Co",
+                "description": "Investment banking revenues have cratered, falling 61% as deal making and new listings dried up",
+                "link": "/content/2c36d886-195a-4d99-a663-5d5687b0a2bb"
+            },
+            {
+                "title": "Libya’s new oil chief promises to lift blockades",
+                "tag": "Libya",
+                "description": "Control of oil revenue has been at heart of the conflict in the divided country ",
+                "link": "/content/7a96ce04-4642-43a7-9610-b5b0b8965540"
+            },
+            {
+                "title": "Reach journalists to vote on strike action ",
+                "tag": "Reach PLC",
+                "description": "Staff at UK’s largest regional news publisher rejected 3% pay rise ",
+                "link": "/content/cb35f647-6435-484f-bee0-16d4d9668313"
+            },
+            {
+                "title": "Emirates slams Heathrow decision to limit flights as ‘airmageddon’",
+                "tag": "Airlines",
+                "description": "Gulf airline says it will ignore capacity cuts introduced by airport to avert travel disruption",
+                "link": "/content/cf3f4f63-aea6-446f-a44e-2135a13ab838"
+            },
+            {
+                "title": "JPMorgan and Morgan Stanley profit miss casts pall over Wall Street",
+                "tag": "JPMorgan Chase & Co",
+                "description": "Net income at both lenders fell nearly 30% in second quarter as work on IPOs and Spacs dried up",
+                "link": "/content/363f5364-1848-4f93-a4f5-000891c5cbb0"
+            },
+            {
+                "title": "Success for FT writers at Headline Money Awards ",
+                "tag": "Newspaper industry",
+                "description": "FT personal finance and investment journalists singled out at top industry event ",
+                "link": "/content/cadcc563-9336-4157-82cd-ee70a78f2ff5"
+            },
+            {
+                "title": "UK’s online safety bill delayed, prompting tech industry relief",
+                "tag": "UK politics & policy",
+                "description": "Companies have expressed concern about how the draft legislation had become so complex and ambiguous",
+                "link": "/content/46252e7c-d369-4242-84fe-12bcc63cc67a"
+            }
+        ],
+        "Technology": [
+            {
+                "title": "SEC scrutinises Musk tweet over $44bn Twitter takeover bid",
+                "tag": "Elon Musk",
+                "description": "US securities regulator asks why Tesla chief did not notify investors before saying deal ‘cannot move forward’ over bots",
+                "link": "/content/1e30a8d6-1793-466a-af59-d661ead04721"
+            },
+            {
+                "title": "UK’s online safety bill delayed, prompting tech industry relief",
+                "tag": "UK politics & policy",
+                "description": "Companies have expressed concern about how the draft legislation had become so complex and ambiguous",
+                "link": "/content/46252e7c-d369-4242-84fe-12bcc63cc67a"
+            },
+            {
+                "title": "Amazon offers concessions to close EU antitrust probes",
+                "tag": "Amazon.com",
+                "description": "Ecommerce giant will stop using data from third-party sellers to boost its retail business as part of deal with Brussels",
+                "link": "/content/694af829-56e5-4b1c-933e-0a312ea72a44"
+            },
+            {
+                "title": "Chipmaker TSMC raises revenue outlook but warns of inflation pressure",
+                "tag": "Taiwan Semiconductor Manufacturing Co Ltd",
+                "description": "Taiwanese group increases growth target even as economic uncertainty rises",
+                "link": "/content/818e8d23-6d9e-4793-bd69-35e9f5dc49a9"
+            },
+            {
+                "title": "‘Exponentially’ risky China leaves venture capital funds starved of cash",
+                "tag": "Chinese business & finance",
+                "description": "Beijing’s tech crackdown and heightened political risk are freezing fundraising rounds for small and midsized groups",
+                "link": "/content/91441aca-1665-4660-843f-9cf7222becff"
+            },
+            {
+                "title": "Tesla Autopilot team chief announces departure",
+                "tag": "Tesla Inc",
+                "description": "Andrej Karpathy’s exit comes amid increasing scrutiny of electric carmaker’s self-driving efforts",
+                "link": "/content/4b09ce69-541c-41ff-bd08-229bc309a876"
+            },
+            {
+                "title": "Twitter may beat Elon Musk in court and still lose",
+                "tag": "John Thornhill",
+                "description": "The Delaware trial is sure to be a spectacle but outsmarting the world’s richest man will be a challenge",
+                "link": "/content/6d4db881-0442-4b62-b809-70c9bad9918d"
+            },
+            {
+                "title": "Web3 is just a fresh serving of the same old crypto nonsense",
+                "tag": "Jemima Kelly",
+                "description": "Instead of guarding the internet from exploitation, the technology adds an extra layer of financialisation ",
+                "link": "/content/bb53f8d8-a4bc-4ab0-8a81-e8befe7e31d1"
+            },
+            {
+                "title": "Big Tech’s taxpayer backstopped multi-billion dollar debt subsidy",
+                "tag": "Technology sector",
+                "description": "“Institutions deemed too big to fail have a nasty habit of testing the theory”",
+                "link": "/content/266b15f9-f7ed-4b14-b308-a262cc764c72"
+            },
+            {
+                "title": "Software M&A: Consolidation may be the only way to face the music",
+                "tag": "Technology sector",
+                "description": "Unity announce acquisition of ironSource for $4.4bn, paying a 74% premium",
+                "link": "/content/eb81e834-4400-4280-be54-4bbfe221e9ef"
+            },
+            {
+                "title": "Companies cannot afford to be left behind in the quantum revolution",
+                "tag": "Karina Robinson",
+                "description": "The technology may still be in its early stages, but it is already delivering value",
+                "link": "/content/2e5e51cc-a0ee-4aab-9f46-3d3c29e066ea"
+            },
+            {
+                "title": "Chinese drone maker lobbies to defeat US national security ban",
+                "tag": "Drones",
+                "description": "DJI’s share of commercial market has fallen after Donald Trump placed it on ‘entities list’",
+                "link": "/content/8636c764-40ea-4544-8b1f-0b2f1bb417a8"
+            },
+            {
+                "title": "Amazon plans further 4,000 UK jobs despite global slowdown",
+                "tag": "Amazon",
+                "description": "Ecommerce group to become one of Britain’s biggest private employers but new hire numbers are sharply down on past two years",
+                "link": "/content/372a363a-39de-4dea-9113-1a062b8d0ce4"
+            },
+            {
+                "title": "Internet safety on hold",
+                "tag": "#techFT",
+                "description": "Chinese VC firms struggle, Microsoft to power Netflix ads, the $190,000 TV",
+                "link": "/content/c1140294-4c73-4aac-8fc6-507ef66edc50"
+            },
+            {
+                "title": "Twitter’s down. Checkmate, Musk",
+                "tag": "Social Media",
+                "description": "A timely global outage for the no-longer-$44bn valued blue bird",
+                "link": "/content/9b254909-b0ee-45fd-8683-09cddf19c563"
+            },
+            {
+                "title": "Ericsson shares fall as inflation and supply woes weigh on margins",
+                "tag": "Ericsson",
+                "description": "Swedish telecoms equipment maker misses second-quarter expectations",
+                "link": "/content/c6c3583f-90ba-443b-afdf-f8513028b503"
+            },
+            {
+                "title": "India’s ultrafast delivery apps and Samsung’s slow decline in market share",
+                "tag": "#techAsia",
+                "description": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times",
+                "link": "/content/f550a92c-aa42-4769-83f4-216ab832f947"
+            },
+            {
+                "title": "Panasonic to build $4bn battery plant in Kansas to meet Tesla demand",
+                "tag": "Panasonic Corp",
+                "description": "Japanese conglomerate deepens relationship with Elon Musk’s carmaker as it races to roll out EV technology",
+                "link": "/content/0a499e05-972a-42a9-8d32-a6485002986a"
+            },
+            {
+                "title": "Netflix teams up with Microsoft for ad-supported streaming tier",
+                "tag": "Netflix Inc",
+                "description": "Venture comes as streaming service attempts to reorient its business amid tough competition",
+                "link": "/content/e83331a0-b351-4f88-93e3-fbf33d5c206e"
+            },
+            {
+                "title": "Musk cast as prankish Twitter titterer",
+                "tag": "#techFT",
+                "description": "Google slows hiring, Gates’ $20bn charity boost, Nothing Phone (1)",
+                "link": "/content/c33bb92e-c5dc-4299-b6a6-437b2f192bc5"
+            },
+            {
+                "title": "Hindenburg Research backs Twitter and bets against Elon Musk",
+                "tag": "Twitter Inc",
+                "description": "New York-based firm says Tesla chief has ‘squandered much of his leverage’ in attempt to pull out of $44bn deal ",
+                "link": "/content/fbfb24a7-fbf1-48a4-b638-f6a8c0b72683"
+            },
+            {
+                "title": "Up to 800 jobs at risk as electric vehicle start-up Arrival slashes costs  ",
+                "tag": "Electric vehicles",
+                "description": "UK van and bus maker restructures to stop cash drying up",
+                "link": "/content/14d8c49f-f8f8-4fe4-a88a-7542aeb8335a"
+            },
+            {
+                "title": "EU court ruling expands Brussels’ powers to scrutinise tech mergers",
+                "tag": "EU business regulation",
+                "description": "Ruling allows European probe of Illumina’s $8bn Grail takeover and sets precedent for deeper oversight of deals  ",
+                "link": "/content/015cca37-4f9d-4dfd-9991-f86ac227e30a"
+            },
+            {
+                "title": "An iPhone on wheels: the existential challenge for carmakers",
+                "tag": "Peter Campbell",
+                "description": "The spread of Apple’s CarPlay system is a threat to the auto industry",
+                "link": "/content/e8b92f41-2a17-44d9-8e1e-110f86be4ea9"
+            },
+            {
+                "title": "Snap explores plans to let users showcase NFTs as filters",
+                "tag": "Snap Inc",
+                "description": "Social media platform is the latest to dabble in digital assets to attract influencers despite crypto crash",
+                "link": "/content/d6a89a18-4ad4-415a-a810-0ca1668cddc9"
+            },
+            {
+                "title": "Twitter turns Musk’s own Tweets against him to build case for $44bn deal",
+                "tag": "Twitter Inc",
+                "description": "Social media company makes liberal use of billionaire’s posts in lawsuit aimed to force through sale",
+                "link": "/content/e1e69394-9eba-4f38-bf50-2fbf542b0f01"
+            },
+            {
+                "title": "‘A nerdy group of misfits’: the US company behind Ukraine’s ‘kamikaze’ drones",
+                "tag": "AeroVironment Inc",
+                "description": "Defence industry minnow AeroVironment has gained prominence after success of its Switchblade system",
+                "link": "/content/70d7fb39-4dbd-4b65-8b49-6969faf2d184"
+            },
+            {
+                "title": "Google slows hiring citing ‘uncertain’ outlook as recession threat rises",
+                "tag": "Google LLC",
+                "description": "Alphabet chief Sundar Pichai told employees in memo that company is not immune to economic headwinds",
+                "link": "/content/a5e774c6-a58d-42d8-81b8-bb8098d3ae2e"
+            },
+            {
+                "title": "Twitter sues to force Elon Musk to complete $44bn deal",
+                "tag": "Twitter Inc",
+                "description": "Move follows billionaire’s attempt to walk away from buying social media company",
+                "link": "/content/b99b98ed-9952-4b4f-ba46-24f863a33af2"
+            },
+            {
+                "title": "Amazon’s shifting Prime location",
+                "tag": "#techFT",
+                "description": "Twitter hits back at Musk, Spotify buys Heardle, Nokia’s new line-up",
+                "link": "/content/dab81ae4-c6ee-4ca3-9886-95a6263107ee"
+            },
+            {
+                "title": "Peloton to halt in-house production of exercise bikes in latest U-turn",
+                "tag": "Peloton Interactive Inc",
+                "description": "Chief portrays decision as natural progression towards simplifying its supply chain",
+                "link": "/content/c1c91d48-d8cd-4066-87ea-8ece5b5f47c8"
+            },
+            {
+                "title": "Twitter calls Musk’s bid to scuttle $44bn deal ‘invalid and wrongful’",
+                "tag": "Twitter Inc",
+                "description": "Letter claims Tesla chief was the one who breached merger agreement as battle over takeover heats up",
+                "link": "/content/bb398102-7175-4c7b-89c0-a1c951b41d25"
+            },
+            {
+                "title": "These apps have eyes on your work emails",
+                "tag": "FintechFT",
+                "description": "Plus, Amazon targets QVC-style livestream shopping",
+                "link": "/content/4c3556cc-42bb-4a89-877e-3df401f93fa2"
+            },
+            {
+                "title": "Ericsson, Qualcomm and Thales to trial 5G from space",
+                "tag": "5G networks",
+                "description": "Tech exploration could enable smartphones to access superfast speeds wherever they are in the world",
+                "link": "/content/ff0189bf-202e-4361-a0d2-e6fbb6bf6c99"
+            },
+            {
+                "title": "Russia turns off gas pipeline to Germany for repairs",
+                "tag": "EU energy",
+                "description": "Officials fear flow through Nord Stream 1 might not resume after maintenance work ",
+                "link": "/content/c01bd8c0-e7e4-4149-a10f-6373cb71c704"
+            }
+        ],
+        "Markets": [
+            {
+                "title": "Euro falls to parity with US dollar for first time in two decades",
+                "tag": "Euro",
+                "description": "Rising recession fears and broad shift into haven assets have boosted the greenback",
+                "link": "/content/1d7fede7-b559-46eb-b1b6-ee4a3cf8dd51"
+            },
+            {
+                "title": "‘The market is just dead’: Investors steer clear of 20-year Treasuries",
+                "tag": "US Treasury bonds",
+                "description": "Weak demand for debt maturing in two decades causes distortions in US government bond market",
+                "link": "/content/e02705c2-a9b6-4c47-99e2-66924af55bc3"
+            },
+            {
+                "title": "Stocks and oil under pressure as markets contemplate US rate rises",
+                "tag": "Capital markets",
+                "description": "Strong dollar pushes down the euro and Japanese yen",
+                "link": "/content/6311d325-9ac7-4cc8-979f-6e5f8847e167"
+            },
+            {
+                "title": "Soaring fuel prices are hitting oil demand in developed countries, says IEA",
+                "tag": "Oil & Gas industry",
+                "description": "Energy agency warns of uncertain outlook because of risk to Russian supplies",
+                "link": "/content/62da7352-298f-4ecf-b963-7ef36b9aa604"
+            },
+            {
+                "title": "Gasoline surge pushes up costs for chemicals used in essential goods",
+                "tag": "Energy crisis",
+                "description": "Strong demand from motor fuel makers has boosted competition for key building block materials",
+                "link": "/content/3f2297ee-6130-4c73-90c7-67645985b7e3"
+            },
+            {
+                "title": "Inside Celsius: how one of crypto’s biggest lenders ground to a halt",
+                "tag": "The Big Read",
+                "description": "Former employees and internal documents suggest a reckless pursuit of high returns put the company in a poor position to ride out this year’s market turbulence",
+                "link": "/content/4fa06516-119b-4722-946b-944e38b02f45"
+            },
+            {
+                "title": "‘Dr Copper’ has a worrying message about the energy transition",
+                "tag": "Daniel Yergin",
+                "description": "The metal has become central to the drive to net zero given its use in electric car batteries and other technologies",
+                "link": "/content/f199cd8e-a5aa-4202-9965-3c71748401eb"
+            },
+            {
+                "title": "Liquidity is a bigger worry for investor returns than growth",
+                "tag": "Bhanu Baweja",
+                "description": "There is nothing automatic about high inflation or tighter policy catalysing a deep recession",
+                "link": "/content/c11cee9e-7a09-4bb6-bde0-87f5392e88c7"
+            },
+            {
+                "title": "Web3 is just a fresh serving of the same old crypto nonsense",
+                "tag": "Jemima Kelly",
+                "description": "Instead of guarding the internet from exploitation, the technology adds an extra layer of financialisation ",
+                "link": "/content/bb53f8d8-a4bc-4ab0-8a81-e8befe7e31d1"
+            },
+            {
+                "title": "High inflation doesn’t scare the market anymore",
+                "tag": "Robert Armstrong",
+                "description": "And is the great moderation really over? ",
+                "link": "/content/3cc28208-05dd-42c8-a569-d5cb23fb24b4"
+            },
+            {
+                "title": "Will recession kill inflation?",
+                "tag": "Ethan Wu",
+                "description": "And more on crypto bailouts",
+                "link": "/content/289f8abd-3f7e-4852-8274-1357af83c5f6"
+            },
+            {
+                "title": "Case for ‘blue’ hydrogen suffers in Europe as war rages on",
+                "tag": "Hydrogen",
+                "description": "Reliance on natural gas gives its green counterpart the edge but, in the US, the ‘real money’ is still betting on blue",
+                "link": "/content/3bc2d659-527f-49f2-a8f9-ba9263147dbc"
+            },
+            {
+                "title": "Mining mogul Andrew Forrest puts money where mouth is on green hydrogen",
+                "tag": "Hydrogen",
+                "description": "Billionaire boss wants to transform Fortescue Metals Group into a clean energy leader and pours scorn on Elon Musk’s green credentials",
+                "link": "/content/d5406ff9-32cb-4d45-8285-7d38f0d867f2"
+            },
+            {
+                "title": "EU clean energy targets risk being missed as rates rise",
+                "tag": "Hydrogen",
+                "description": "Developers of large hydrogen projects need clarity on subsidies and a pipeline of committed customers",
+                "link": "/content/16a03d56-a84f-4e3b-a045-f4a9f8e2bfc0"
+            },
+            {
+                "title": "Celsius Network reveals $1.2bn shortfall in bankruptcy filing",
+                "tag": "Celsius Network Ltd",
+                "description": "Crypto lender’s founder admits mistakes as digital asset group seeks court protection",
+                "link": "/content/0babff4f-2212-41a4-844e-bbd09b1ef245"
+            },
+            {
+                "title": "Fed watchdog clears top officials in trading investigation",
+                "tag": "Federal Reserve",
+                "description": "Report finds Richard Clarida and Jay Powell did not break law or violate US central bank’s rules",
+                "link": "/content/202a6949-22ad-4118-8ced-99eb0b7c3d99"
+            },
+            {
+                "title": "Oil prices drop below $95 for first time since invasion of Ukraine ",
+                "tag": "Oil",
+                "description": "Demand worries dominate as commodity markets bet on economic contraction",
+                "link": "/content/424fd3ff-28e2-448e-ab38-535a282526be"
+            },
+            {
+                "title": "Libya’s new oil chief promises to lift blockades",
+                "tag": "Libya",
+                "description": "Control of oil revenue has been at heart of the conflict in the divided country ",
+                "link": "/content/7a96ce04-4642-43a7-9610-b5b0b8965540"
+            },
+            {
+                "title": "JPMorgan and Morgan Stanley profit miss casts pall over Wall Street",
+                "tag": "JPMorgan Chase & Co",
+                "description": "Net income at both lenders fell nearly 30% in second quarter as work on IPOs and Spacs dried up",
+                "link": "/content/363f5364-1848-4f93-a4f5-000891c5cbb0"
+            },
+            {
+                "title": "Success for FT writers at Headline Money Awards ",
+                "tag": "Newspaper industry",
+                "description": "FT personal finance and investment journalists singled out at top industry event ",
+                "link": "/content/cadcc563-9336-4157-82cd-ee70a78f2ff5"
+            },
+            {
+                "title": "Shell chief warns Europe may have to ration energy during winter",
+                "tag": "Energy crisis",
+                "description": "Head of oil major says prices will rise ‘significantly’ if Russia continues to limit supply",
+                "link": "/content/fb57864b-5d1c-450a-bf8d-a4a0807a38c9"
+            },
+            {
+                "title": "Who has the power to green the energy sector?",
+                "tag": "Energy Source",
+                "description": "Plus, the parts of the supply chain that pose the greatest risk to the energy transition",
+                "link": "/content/f841ef4e-41ee-46f9-9319-f21d39ae4c7f"
+            },
+            {
+                "title": "Saipem gets the wrong end of the stick",
+                "tag": "European companies",
+                "description": "A failed rights issue in Italy highlights some big uncertainties",
+                "link": "/content/aac9e842-1d2b-43b2-8865-4eaefdaf44a2"
+            },
+            {
+                "title": "Why a price cap on Russian oil is a bad idea",
+                "tag": "Martin Sandbu",
+                "description": "US proposal would expose the world’s dependence and enhance Putin’s ability to threaten the west",
+                "link": "/content/e4bd3554-2047-4614-8926-d0b9b674f32c"
+            },
+            {
+                "title": "Monzo chief vows to scale up business despite fintech turmoil",
+                "tag": "Monzo Bank Ltd",
+                "description": "TS Anil says unprofitable UK digital bank must press ahead with its big ambitions",
+                "link": "/content/3ff0fd2c-c371-4bc4-8350-6a92aabf03d0"
+            },
+            {
+                "title": "Emerging market fund group Ashmore hit by $14.3bn drop in assets",
+                "tag": "Ashmore",
+                "description": "EM specialist suffers investment losses and client outflows as sector comes under pressure",
+                "link": "/content/423bef62-8216-4e6b-8bb5-82b2e0c0e81a"
+            },
+            {
+                "title": "Big Tech’s taxpayer backstopped multi-billion dollar debt subsidy",
+                "tag": "Technology sector",
+                "description": "“Institutions deemed too big to fail have a nasty habit of testing the theory”",
+                "link": "/content/266b15f9-f7ed-4b14-b308-a262cc764c72"
+            },
+            {
+                "title": "‘Mission impossible’: the problem with Biden’s plan to keep oil prices low",
+                "tag": "Oil",
+                "description": "US president hopes to convince Saudi Arabia to pump more while crimping Russia’s energy revenues",
+                "link": "/content/c00a3d09-02d1-444b-827a-edf90ef300c1"
+            },
+            {
+                "title": "VanEck says bank fees are ‘eroding’ Russia ETF’s assets",
+                "tag": "Exchange traded funds",
+                "description": "The asset manager urges shareholders to put pressure on JPMorgan, Citi and Bank of New York to waive charges",
+                "link": "/content/b3a428a9-4b66-4de1-b58d-0c42784b72eb"
+            },
+            {
+                "title": "Crypto lender Celsius files for bankruptcy in New York",
+                "tag": "Celsius Network Ltd",
+                "description": "Company is latest to initiate court proceedings after sharp sell-off this year",
+                "link": "/content/8d6dee7d-2cc9-4663-a0a2-e469686baca5"
+            },
+            {
+                "title": "Libya’s PM pushes for new chief of state oil company",
+                "tag": "Libya",
+                "description": "Incumbent rejects dismissal and analysts fear politicisation of sector in Opec member",
+                "link": "/content/a6c6fca9-5f01-4b15-b9ef-f66465087b35"
+            },
+            {
+                "title": "US Treasury curve most inverted since 2000",
+                "tag": "US Treasury bonds",
+                "description": "Phenomenon where two-year yield is higher than the 10-year has preceded every recession for past 50 years",
+                "link": "/content/4f4c3414-9249-4347-91e1-6049081ec431"
+            },
+            {
+                "title": "Trafigura sells stake in Putin-backed oil project to obscure HK trading outfit",
+                "tag": "Trafigura",
+                "description": "Nord Axis among group of entrants to have replaced established players in Russian market",
+                "link": "/content/62cc84da-3737-41eb-8d3c-d26590506430"
+            },
+            {
+                "title": "Sri Lanka’s woes are a warning to other developing nations",
+                "tag": "The editorial board",
+                "description": "China’s historic reluctance to engage with other creditors will be decisive factor",
+                "link": "/content/08c6d823-9d2b-4e63-b5b9-d343121f7648"
+            }
+        ]
+    }
+}

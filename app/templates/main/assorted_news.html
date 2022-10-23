@@ -2,5 +2,172 @@
 {% import 'bootstrap/wtf.html' as wtf %}
 
 {% block app_content %}
-	<h2>Hello!</h2>
+	<script> 
+		function openJournal(journalName) {
+			var i;
+			var x = document.getElementsByClassName("journal");
+			for (i = 0; i < x.length; i++) {
+				x[i].style.display = "none";
+			}
+			document.getElementById(journalName).style.display = "block";
+		}
+		function openJournalSection(section) {
+			var i;
+			var x = document.getElementsByClassName("journal-sect");
+			for (i = 0; i < x.length; i++) {
+				x[i].style.display = "none";
+			}
+			document.getElementById(section).style.display = "block";
+		}
+	</script>
+	<style>
+		.article-teaser{
+			display: block;
+			margin: 30px 0;
+		}
+		.article-descrip{
+			text-indent: 20px;
+		}
+	</style>
+	<h1>Assorted News</h1>
+	<nav class="navbar navbar-mid">
+		<div class="journal-container">
+			<a class= "navbar-brand" href="#" onclick="openJournal('Bloomberg')">Bloomberg</a>
+			<a class= "navbar-brand" href="#" onclick="openJournal('FT')">Financial Times</a>
+			<a class= "navbar-brand" href="#" onclick="openJournal('CNBC')">CNBC</a>
+			<a class= "navbar-brand" href="#" onclick="openJournal('WSJ')">Wall Street Journal</a>
+			<a class= "navbar-brand" href="#" onclick="openJournal('NYT')">NYT</a>
+			<a class= "navbar-brand" href="#" onclick="openJournal('WP')">Washington Post</a>
+		</div>
+	</nav>
+
+	<div id="Bloomberg" class="journal">
+		<h2>Bloomberg</h2>
+		<nav class="navbar navbar-mid">
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					{% for sect in bloomberg_sect %}
+					<li class="nav navbar-nav"><a class= "navbar-brand" href="#" onclick="openJournalSection('Bloomberg-{{ sect }}')">{{ sect }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+		</nav>
+		{% for sect in bloomberg_sect %}
+		<div id="Bloomberg-{{ sect }}" class="journal-sect" style="display:none">
+			<h3>{{ sect }}</h3>
+				{% for art_title in bloomberg_sect[sect] %}
+				<div class="article-teaser">
+					<h4><a href="{{ url_for('bloom_article',title=art_title.replace(' ','+'), sect=sect) }}" target="_blank">{{ art_title }}</a></h4>
+					<h5>{{ bloomberg_sect[sect][art_title]['date'] }}</h5>
+				</div>
+				{% endfor %}
+		</div>
+		{% endfor %}
+	</div>
+
+	<div id="FT" class="journal" style="display:none">
+		<h2>Financial Times</h2>
+		<nav class="navbar navbar-mid">
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					{% for sect in ft_sect %}
+					<li><a class= "navbar-brand" href="#" onclick="openJournalSection('FT-{{ sect }}')">{{ sect }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+		</nav>
+		{% for sect in ft_sect %}
+		<div id="FT-{{ sect }}" class="journal-sect" style="display:none">
+			<h3>{{ sect }}</h3>
+				{% for article in ft_sect[sect] %}
+				<div class="article-teaser">
+					<h4><a href="{{ url_for('ft_article',title=article['title'].replace(' ','+'), sect=sect) }}" target="_blank"> {{ article['title'] }}</a></h4>
+					<p class="article-descrip"> {{ article['description'] }} </p>
+				</div>
+				{% endfor %}
+		</div>
+		{% endfor %}
+	</div>
+
+	<div id="CNBC" class="journal" style="display:none">
+		<h2>CNBC</h2>
+		<nav class="navbar navbar-mid">
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					{% for sect in cnbc_sect %}
+					<li><a class= "navbar-brand" href="#" onclick="openJournalSection('CNBC-{{ sect }}')">{{ sect }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+		</nav>
+		{% for sect in cnbc_sect %}
+		<div id="CNBC-{{ sect }}" class="journal-sect" style="display:none">
+			<h3>{{ sect }}</h3>
+				{% for article in cnbc_sect[sect] %}
+				<div class="article-teaser">
+					<h4><a href="{{ article['link'] }}" target="_blank"> {{ article['title'] }}</a></h4>
+					<p class="article-descrip"> {{ article['desc'] }} </p>
+				</div>
+				{% endfor %}
+		</div>
+		{% endfor %}
+	</div>
+
+	<div id="WSJ" class="journal" style="display:none">
+		<h2>Wall Street Journal</h2>
+		<nav class="navbar navbar-mid">
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					{% for sect in wsj_sect %}
+					<li><a class= "navbar-brand" href="#" onclick="openJournalSection('WSJ-{{ sect }}')">{{ sect }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+		</nav>
+		{% for sect in wsj_sect %}
+		<div id="WSJ-{{ sect }}" class="journal-sect" style="display:none">
+			<h3>{{ sect }}</h3>
+				{% for article in wsj_sect[sect] %}
+				<div class="article-teaser">
+					<h4><a href="{{ article['link'] }}" target="_blank"> {{ article['title'] }}</a></h4>
+					<p class="article-descrip"> {{ article['desc'] }} </p>
+				</div>
+				{% endfor %}
+		</div>
+		{% endfor %}
+	</div>
+
+	<div id="NYT" class="journal" style="display:none">
+		<h2>New York Times</h2>
+		<nav class="navbar navbar-mid">
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					{% for sect in nyt_sect %}
+					<li><a class= "navbar-brand" href="#" onclick="openJournalSection('NYT-{{ sect }}')">{{ sect }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+		</nav>
+		{% for sect in nyt_sect %}
+		<div id="NYT-{{ sect }}" class="journal-sect" style="display:none">
+			<h3>{{ sect }}</h3>
+				{% for article in nyt_sect[sect] %}
+				<div class="article-teaser">
+					<h4><a href="{{ article['link'] }}" target="_blank"> {{ article['title'] }}</a></h4>
+					<p class="article-descrip"> {{ article['desc'] }} </p>
+				</div>
+				{% endfor %}
+		</div>
+		{% endfor %}
+	</div>
+
+	<div id="WP" class="journal" style="display:none">
+		<h2>Washington Post</h2>
+		{% for sect in wp_sect %}
+		<h3>{{ sect }}</h3>
+			{% for article in wp_sect[sect] %}
+			<p> {{ article['title'] }} </p>
+			{% endfor %}
+		{% endfor %}
+	</div>
 {% endblock %}

@@ -3,9 +3,11 @@ import re
 import time
 from datetime import datetime
 from bs4 import BeautifulSoup
+from selenium import webdriver
 
-head = {'User-Agent': 'Mozilla/5.0'}
 
+head = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:12.0) Gecko/20100101 Firefox/12.0',
+           'Accept': 'text/html', 'Referer': 'http://www.google.com/'}
 
 base_url = "https://www.federalreserve.gov"
 calendar_page = "/monetarypolicy/fomccalendars.htm"
@@ -31,7 +33,7 @@ def fed_crawl_get_urls(years):
 					date = tag.get('href')[len(statement_base_url):-5]
 					ret_arr.append([1,date])
 
-
+		# minutes
 		tags = base_soup.find_all(href=re.compile(minutes_base_url+year))
 		for tag in tags:
 			if tag.contents[0] == 'HTML':
@@ -87,3 +89,8 @@ def fed_crawl_get_minutes(date):
 				arr[-1].append([p.getText()])
 
 	return arr
+
+
+def fed_crawl_get_next_date():
+	utc_time = datetime.utcnow()-timedelta(hours=5)
+	

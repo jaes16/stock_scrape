@@ -10,7 +10,32 @@ from tensorflow.keras import losses
 from tensorflow.keras import preprocessing
 from tensorflow.keras.layers.experimental.preprocessing import TextVectorization
 
-def
+def setup_start_w_term():
+
+	def helper_func(fname_prefix, r):
+		for i in range(r):
+			f_old = open(fname_prefix+str(i)+'.txt', 'r')
+			f_new = open(fname_prefix+'1_'+str(i)+'.txt', 'w')
+
+			data = ''
+			for line in f_old:
+				data = data+line.lower()
+
+			ind = data.find('apple')
+			if ind != -1:
+				data = data[ind:min(len(data), ind+400)]
+
+			f_new.write(data)
+
+			f_old.close()
+			f_new.close()
+
+	helper_func('test_set/bad/bad_', 15)
+	helper_func('test_set/good/good_', 25)
+	helper_func('test_set/neutral/neutral_', 40)
+
+
+
 def setup_func():
 	fbad = open('analysis_bad.txt', 'w')
 	fneutral = open('analysis_neutral.txt', 'w')
@@ -100,7 +125,7 @@ def tf_training():
 	              optimizer='adam',
 	              metrics=tf.metrics.BinaryAccuracy(threshold=0.0))
 
-	epochs = 10
+	epochs = 50
 	history = model.fit(
 	    train_ds,
 	    validation_data=val_ds,
@@ -126,7 +151,7 @@ def tf_training():
 	print(accuracy)
 
 	examples = [
-	  "I'm not so sure about buying up on Apple, although it has had some highs, I think it is at its peak"
+	  "I'm not so sure about buying up on Apple, although it has had some highs, I think it is at its peak",
 	  "Apples and oranges, apples and oranges, stocks will be stocks",
 	  "Apple has seen a steady drop recently, but I believe that it is about to turn a corner and rise"
 	]
@@ -138,4 +163,6 @@ def standardize(term, text):
 	import re
 	text = re.sub(r'^https?:\/\/.*[\r\n]*', '', text, flags=re.MULTILINE)
 	text.replace('&gt', '')
-	
+
+tf_training()
+#setup_start_w_term()

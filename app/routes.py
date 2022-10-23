@@ -7,6 +7,10 @@ from app.helper_func.fed_crawl import fed_crawl_get_urls, fed_crawl_get_statemen
 from app.helper_func.google_news import google_search, google_analyses_pdf
 from app.helper_func.reddit_pushshift import get_reddit_feed
 from app.helper_func.twitter_api import get_tweets
+from app.helper_func.bloomberg_crawl import bloomberg_article_crawl
+from app.helper_func.financialtimes_crawl import ft_article_crawl
+from app.helper_func.news_rss import helper_assorted_news
+import json
 
 @current_app.route('/')
 @current_app.route('/home')
@@ -26,7 +30,7 @@ def loading(go_url):
 
 @current_app.route('/fomc')
 def fomc():
-	ret = fed_crawl_get_urls(['2021'])
+	ret = fed_crawl_get_urls(['2022'])
 	urls = ret[0]
 	'''
 	tz = timezone('EST')
@@ -64,11 +68,12 @@ def reddit():
 		for sub in subs:
 			if sub:
 				num_subs += 1
-				url_title_text.append(get_reddit_feed(sub, time))
+				url_title_text.append(get_reddit_feed(sub, time, 25))
 		#return render_template('main/reddit.html', debug_message=debug_message)
 		return render_template('main/reddit.html', title='Reddit Posts', subs=subs, titles=url_title_text, form=form, num_subs=num_subs)
 	else:
 		return render_template('main/reddit.html', title='Reddit Posts', form=form, num_subs=0)
+
 
 
 @current_app.route('/google_news', methods=['GET', 'POST'])
@@ -109,7 +114,64 @@ def google_analyses():
 
 @current_app.route('/assorted_news')
 def assorted_news():
-	return render_template('main/assorted_news.html', title='Assorted News')
+	bloomberg = {}
+	ft = {}
+	cnbc = {}
+	wsj = {}
+	nyt = {}
+	wp = {}
+	try:
+		f = open('data.json', 'r', encoding='utf-8')
+		data = json.load(f)
+		f.close()
+		if (not 'date' in data) or datetime.strptime(data['date'], "%Y-%b-%d").date() != datetime.today().date():
+			a = 1/0
+	except Exception as e:
+		print('getting today\'s news')		
+		helper_assorted_news()
+	
+	with open('data.json', 'r', encoding='utf-8') as f:
+		data = json.load(f)
+		bloomberg = data['Bloomberg']
+		ft = data['FT']
+		cnbc = data['CNBC']
+		wsj = data['WSJ']
+		nyt = data['NYT']
+		wp = data['WP']
+	
+	return render_template('main/assorted_news.html', title='Assorted News', bloomberg_sect=bloomberg, ft_sect=ft,
+							cnbc_sect=cnbc, wsj_sect=wsj, nyt_sect=nyt, wp_sect=wp)
+
+@current_app.route('/bloomberg-article')
+def bloom_article():
+	# to do: have to make sure we don't crash when users put in custom dates
+	title = request.args.get('title').replace('+',' ')
+	sect = request.args.get('sect')
+	link = ''
+
+	with open('data.json', 'r', encoding='utf-8') as f:
+		data = json.load(f)
+		link = data['Bloomberg'][sect][title]['link']
+	data = bloomberg_article_crawl(link)
+	return render_template('main/bloom_article.html', title='Bloom Article', article_title=title, lines=data)
+
+@current_app.route('/ft-article')
+def ft_article():
+	# to do: have to make sure we don't crash when users put in custom dates
+	title = request.args.get('title').replace('+',' ')
+	sect = request.args.get('sect')
+	link = ''
+
+	with open('data.json', 'r', encoding='utf-8') as f:
+		data = json.load(f)
+		for article in data['FT'][sect]:
+			if article['title'] == title:
+				link = article['link']
+				break
+	data = ft_article_crawl(link)
+	return render_template('main/ft_article.html', title='FT Article', article_title=title, lines=data)
+
+
 
 @current_app.route('/twitter', methods=['GET', 'POST'])
 def twitter():

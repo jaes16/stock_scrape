@@ -1,31 +1,66 @@
+
 {% extends 'bootstrap/base.html' %}
 {# bootstrap/base.html will provide css classes. bootstrap/base.html is provided when we: boostrap = Boostrap() #}
+
 
 {% block title %}
 		{% if title %}{{ title }} - Stock_Crawl {% else %} Stock Crawl - Welcome{% endif %}
 {% endblock %}
 
 {% block navbar %}
+	<style>
+		body {
+			background-color: #fff1e5;
+		}
+		.nav {
+			background-color: #f2dfce;
+		}
+		.navbar {
+			background-color: #f2dfce;
+			border-color: #f2dfce;
+		}
+		.navbar-mid {
+			background-color: #fff9f5;
+			border-color: #fff9f5;
+		}
+		.navbar-mid-btn{
+			background-color: #fff9f5;
+			border-color: #fff9f5;
+		}
+		.journal-container {
+			border-radius: 5px 5px 0 0;
+			grid-area: nav-wrapper;
+			border-bottom: 1px solid var(--borderColor);
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			background-color: var(--mainColor);
+		}
+		.btn {
+			border-color: #f2dfce;
+			color: #000000;
+		}
+		.nav-brand{
+			color:#000000;
+			background-color: #000000;
+		}
+	</style>
 	<nav class="navbar navbar-default">
 		<div class="container">
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
 					<span class="sr-only">Toggle navigation</span>
 				</button>
-				<a class="navbar-brand" href="{{ url_for('home') }}">Stock Crawl</a>
+				<a class="navbar-brand home-link" href="{{ url_for('home') }}">Stock Crawl</a>
 			</div>
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav">
 					<li><a href="{{ url_for('loading', go_url ='fomc') }}">FOMC</a></li>
 					<li><a href="{{ url_for('reddit') }}">Reddit</a></li>
 					<li><a href="{{ url_for('google_news') }}">Google News</a></li>
-					<li><a href="{{ url_for('google_analyses') }}">Google Analyses</a></li>
 					<li><a href="{{ url_for('assorted_news') }}">Assorted News</a></li>
-					<li><a href="{{ url_for('twitter') }}">Twitter</a></li>
 				</ul>
-				<ul class="nav navbar-nav navbar-right">
-
-				</ul>
+			</div>
 		</div>
 	</nav>
 {% endblock %}
