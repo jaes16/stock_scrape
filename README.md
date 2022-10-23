@@ -7,11 +7,10 @@ Useful to gather some shallow review of stocks and companies, and the general ma
 
 Functions:
  - Fed FOMC statements and minutes
+ - Assorted headlines from various sources: Bloomberg, FT, CNBC, WSJ, NYT, WP
  - Reddit post aggregation
  - Google News aggregation
- - Google Search of Stock Analysis PDF's
- - Twitter API connection
 
 Currently in progress:
+ - Soon: Assorted economic indicators: GDP, CPI, unemployment, US 10-year bond yields, etc.
  - Using tensorflow to classify reddit posts, tweets, and pdfs by sentiment.
- - Assorted news from WSJ, CNBC, Bloomberg, etc.
