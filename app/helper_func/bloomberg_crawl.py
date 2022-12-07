@@ -14,7 +14,7 @@ useragent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/605.1.1
 
 DATE_LIMIT = datetime.today().date() - timedelta(days=1)
 
-BLOOMBERG_SECTIONS = {'Markets': 'markets', 'Economics': 'economics', 'Industries': 'industries', 'Technology': 'technology',} #'Politics': 'politics',
+BLOOMBERG_SECTIONS = {'Markets': 'markets', 'Industries': 'industries', 'Technology': 'technology',} #'Economics': 'economics', 'Politics': 'politics',
                     #{'Wealth': 'wealth', 'Opinion': 'opinion',}]# 'Businessweek': 'businessweek'}]
 
 
@@ -59,9 +59,10 @@ def bloomberg_article_crawl(url):
     return [p.text for p in soup2.find_all('p')]
 
 
-def bloomberg_page_crawl(source):
-    titles = {}
+def bloomberg_page_crawl(driver):
+    titles = []
 
+    '''
     soup = BeautifulSoup(source, 'html.parser')
 
     for article in soup.find_all('a', {'href': re.compile('news/articles/')}):
@@ -79,8 +80,25 @@ def bloomberg_page_crawl(source):
                 titles[title] = {'date': pubdate, 'link': link}
         except:
             pass
-
-    time.sleep(1)
+    '''
+    for article in driver.find_elements(By.XPATH, '//article'):
+        try:
+            link = article.find_element(By.XPATH, ".//a[contains(@class,'headline')]")
+            title = link.text.strip()
+            if title == "":
+                continue
+            for art in titles:
+                if art['title'] == title:
+                    # don't include this duplicate article
+                    1/0
+            pubdate = link.get_attribute('href')
+            pubdate_ind = pubdate.index('articles/'+datetime.today().strftime('%Y')) + 9
+            pubdate = pubdate[pubdate_ind : pubdate_ind + 10]
+            if datetime.strptime(pubdate, '%Y-%m-%d').date() < DATE_LIMIT:
+                continue
+            titles.append({'title': title, 'date': pubdate, 'link': link.get_attribute('href')})
+        except Exception as e:
+            pass
 
     return titles
 
@@ -91,12 +109,11 @@ def bloomberg_crawl():
 
     
     #for sect_arr in range(2):
-    options = webdriver.ChromeOptions()
+    #options = webdriver.ChromeOptions()
     #options.binary_location = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
     #driver = uc.Chrome(options)
     #driver = uc.Chrome()
 
-    #driver.get('https://www.bloomberg.com/')
     '''
         try:
             frame = WebDriverWait(driver, 15).until(lambda x: x.find_element(By.XPATH, '//iframe[@title="SP Consent Message"]')) 
@@ -113,35 +130,31 @@ def bloomberg_crawl():
         element_amer.click()
         source = driver.page_source
     '''
+    driver = uc.Chrome()
+    driver.get('https://www.bloomberg.com/')
 
     #for sect in BLOOMBERG_SECTIONS[sect_arr]:
     for sect in BLOOMBERG_SECTIONS:
         try:
-            options = Options()
-            options.headless = True
-            driver = uc.Chrome(options)
+            #options = Options()
+            #options.headless = True
 
-            driver.get('https://www.bloomberg.com/'+BLOOMBERG_SECTIONS[sect])
-            print('https://www.bloomberg.com/'+BLOOMBERG_SECTIONS[sect])
-            #element_navi = WebDriverWait(driver, 15).until(lambda x: x.find_element(By.XPATH, '//li[@data-section="'+sect+'"]'))
-            #element_navi.click()
-            '''
-            try:
-                frame = WebDriverWait(driver, 15).until(lambda x: x.find_element(By.XPATH, '//iframe[@title="SP Consent Message"]')) 
-                #frame = driver.find_element(By.XPATH, '//iframe[@title="SP Consent Message"]')
-                driver.switch_to.frame(frame)
-                driver.find_element(By.XPATH, '//button[@title="Yes, I Accept"]').click()
-                driver.switch_to.default_content()
-            except:
-                pass
-            '''
+            # driver.get('https://www.bloomberg.com/'+BLOOMBERG_SECTIONS[sect])
+            # print('https://www.bloomberg.com/'+BLOOMBERG_SECTIONS[sect])
+            driver.execute_script("window.scrollTo(0, 0);")
+            element_navi = WebDriverWait(driver, 15).until(lambda x: x.find_element(By.XPATH, '//li[@data-section="'+sect+'"]/a'))
+            element_navi.click()
+
             time.sleep(2)
-            ret[sect] = bloomberg_page_crawl(driver.page_source) 
-            driver.quit()
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            ret[sect] = bloomberg_page_crawl(driver) 
+            # driver.quit()
         except Exception as e:
             print(e, sect, "\n")               
-        
-        #driver.quit()
+    
+    driver.get('https://www.google.com/')
+    driver.quit()
     return ret
 
-#print(bloomberg_crawl())
+# print(bloomberg_crawl())
+

@@ -7,8 +7,8 @@ import json
 
 from app.helper_func.financialtimes_crawl import financialtimes_crawl
 from app.helper_func.bloomberg_crawl import bloomberg_crawl
-#from financialtimes_crawl import financialtimes_crawl
-#from bloomberg_crawl import bloomberg_crawl
+
+from app.helper_func.word_tagging import get_keywords
 
 headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:12.0) Gecko/20100101 Firefox/12.0',
             'Accept': 'text/html', 'Referer': 'http://www.google.com/'}
@@ -174,30 +174,45 @@ def wsj_crawl():
 def helper_assorted_news():
 
     data = {'date': datetime.today().strftime("%Y-%b-%d")}
+    word_cloud = {}
 
     try:
-        data['Bloomberg'] = bloomberg_crawl()
+        bloom = bloomberg_crawl()
+        data['Bloomberg'] = bloom
+        word_cloud = get_keywords(bloom, word_cloud)                
     except:
         pass
     try:
-        data['NYT'] = nyt_crawl()
+        nyt = nyt_crawl()
+        data['NYT'] = nyt
+        word_cloud = get_keywords(nyt, word_cloud)
     except:
         pass
     try:
-        data['WP'] = wp_crawl()
+        wp = wp_crawl()
+        data['WP'] = wp
+        word_cloud = get_keywords(wp, word_cloud) 
     except:
         pass
     try:
-        data['CNBC'] = cnbc_crawl()
+        cnbc = cnbc_crawl()
+        data['CNBC'] = cnbc
+        word_cloud = get_keywords(cnbc, word_cloud) 
     except:
         pass
     try:
-        data['WSJ'] = wsj_crawl()
+        wsj = wsj_crawl()
+        data['WSJ'] = wsj
+        word_cloud = get_keywords(wsj, word_cloud) 
     except:
         pass
     try:
-        data['FT'] = financialtimes_crawl()
+        ft = financialtimes_crawl()
+        data['FT'] = ft
+        word_cloud = get_keywords(ft, word_cloud) 
     except:
         pass
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
+    with open('wordcloud.json', 'w', encoding='utf-8') as f:
+        json.dump(word_cloud, f, ensure_ascii=False, indent=4)

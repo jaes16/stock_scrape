@@ -120,6 +120,7 @@ def assorted_news():
 	wsj = {}
 	nyt = {}
 	wp = {}
+	word_cloud = {}
 	try:
 		f = open('data.json', 'r', encoding='utf-8')
 		data = json.load(f)
@@ -138,9 +139,33 @@ def assorted_news():
 		wsj = data['WSJ']
 		nyt = data['NYT']
 		wp = data['WP']
+	print("wordcloud\n")
+	with open('wordcloud.json', 'r', encoding='utf-8') as f:
+		data = json.load(f)
+		for word in data:
+			if data[word] >= 5:
+				word_cloud[word] = data[word]
 	
 	return render_template('main/assorted_news.html', title='Assorted News', bloomberg_sect=bloomberg, ft_sect=ft,
-							cnbc_sect=cnbc, wsj_sect=wsj, nyt_sect=nyt, wp_sect=wp)
+							cnbc_sect=cnbc, wsj_sect=wsj, nyt_sect=nyt, wp_sect=wp, word_cloud=word_cloud)
+
+@current_app.route('/headline-tag')
+def headline_tag():
+	tag = request.args.get('tag')
+	print(tag)
+	articles = []
+	with open('data.json', 'r', encoding='utf-8') as f:
+		data = json.load(f)
+		for source in data:
+			if source != 'date':
+				for sect in data[source]:
+					for art in data[source][sect]:
+						if tag in art['title'].lower():
+							art['source'] = source
+							articles.append(art)
+	print(articles)
+	return render_template('main/headline_tag.html', tag=tag, articles=articles)
+	
 
 @current_app.route('/bloomberg-article')
 def bloom_article():
@@ -151,7 +176,9 @@ def bloom_article():
 
 	with open('data.json', 'r', encoding='utf-8') as f:
 		data = json.load(f)
-		link = data['Bloomberg'][sect][title]['link']
+		for article in data['Bloomberg'][sect]:
+			if article['title'] == title:
+				link = article['link']
 	data = bloomberg_article_crawl(link)
 	return render_template('main/bloom_article.html', title='Bloom Article', article_title=title, lines=data)
 
